@@ -1,0 +1,28 @@
+.idea
+gulp-tasks
+logs
+.editorconfig
+
+# typings
+typings
+
+# testing
+karma.conf.js
+test.bundle.js
+coverage
+
+# demo build
+demo
+demo-build
+demo/webpack/webpack.config.js
+
+ngx-select-city.ts
+*.ts
+!*.d.ts
+*.js.map
+/src/*.ts
+/src/*.js.map
+!/src/*.d.ts
+!/bundles/*.js.map
+/compiled
+*.ngFactory.ts
