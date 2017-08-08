@@ -1,6 +1,6 @@
 {
   "name": "ngx-select-city",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "ISC",
   "main": "ngx-select-city.js",
   "typings": "ngx-select-city.d.ts",
