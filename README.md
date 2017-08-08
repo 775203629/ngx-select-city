@@ -4,6 +4,8 @@
 ##安装
 ```sh
 npm install https://github.com/Seraphims/ngx-select-city --save
+// 或者
+npm install ngx-select-city --save
 ```
 
 ## 使用
