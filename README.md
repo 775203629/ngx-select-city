@@ -1,5 +1,5 @@
 # ngx-select-city
-这是个省市级联的插件，因为在做angular应用的时候很多地方会用到省市选择，网上找的都有些问题，每次都copy太麻烦了，也没有找到时候国内码农用的，就自己造轮子了，首先感谢https://github.com/zjcboy/mit-city-select 的作者。（第一次看到时候很开心，以为可以直接用了，没想到也是半成品）
+这是个省市级联的插件，因为在做angular应用的时候很多地方会用到省市选择，网上找的都有些问题，每次都copy太麻烦了，也没有找到适合国内码农用的，就自己造轮子了，首先感谢https://github.com/zjcboy/mit-city-select 的作者。（第一次看到时候很开心，以为可以直接用了，没想到也是半成品）
 
 ##安装
 ```sh
@@ -9,7 +9,7 @@ npm install ngx-select-city --save
 ```
 
 ## 使用
-#### 1.引入WuCitySelectModule
+#### 1.引入WuCitySelectModule和样式
 ```ts
 import { WuCitySelectModule } from 'ngx-select-city';
 
@@ -21,6 +21,10 @@ import { WuCitySelectModule } from 'ngx-select-city';
     bootstrap: [AppComponent]
 })
 export class AppModule { }
+```
+在index.html中加入样式
+```html
+<link href="../node_modules/ngx-select-city/ngx-select-city.scss" rel="stylesheet">
 ```
 #### 2.页面使用
 ```html
