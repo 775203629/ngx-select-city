@@ -7,127 +7,7 @@ exports.chinaAddres = {
             'value': '110000'
         },
         {
-            'name': '天津市',
-            'value': '120000'
-        },
-        {
-            'name': '河北省',
-            'value': '130000'
-        },
-        {
-            'name': '山西省',
-            'value': '140000'
-        },
-        {
-            'name': '内蒙古自治区',
-            'value': '150000'
-        },
-        {
-            'name': '辽宁省',
-            'value': '210000'
-        },
-        {
-            'name': '吉林省',
-            'value': '220000'
-        },
-        {
-            'name': '黑龙江省',
-            'value': '230000'
-        },
-        {
-            'name': '上海市',
-            'value': '310000'
-        },
-        {
-            'name': '江苏省',
-            'value': '320000'
-        },
-        {
-            'name': '浙江省',
-            'value': '330000'
-        },
-        {
-            'name': '安徽省',
-            'value': '340000'
-        },
-        {
-            'name': '福建省',
-            'value': '350000'
-        },
-        {
-            'name': '江西省',
-            'value': '360000'
-        },
-        {
-            'name': '山东省',
-            'value': '370000'
-        },
-        {
-            'name': '河南省',
-            'value': '410000'
-        },
-        {
-            'name': '湖北省',
-            'value': '420000'
-        },
-        {
-            'name': '湖南省',
-            'value': '430000'
-        },
-        {
-            'name': '广东省',
-            'value': '440000'
-        },
-        {
-            'name': '广西壮族自治区',
-            'value': '450000'
-        },
-        {
-            'name': '海南省',
-            'value': '460000'
-        },
-        {
-            'name': '重庆市',
-            'value': '500000'
-        },
-        {
-            'name': '四川省',
-            'value': '510000'
-        },
-        {
-            'name': '贵州省',
-            'value': '520000'
-        },
-        {
-            'name': '云南省',
-            'value': '530000'
-        },
-        {
-            'name': '西藏自治区',
-            'value': '540000'
-        },
-        {
-            'name': '陕西省',
-            'value': '610000'
-        },
-        {
-            'name': '甘肃省',
-            'value': '620000'
-        },
-        {
-            'name': '青海省',
-            'value': '630000'
-        },
-        {
-            'name': '宁夏回族自治区',
-            'value': '640000'
-        },
-        {
-            'name': '新疆维吾尔自治区',
-            'value': '650000'
-        },
-        {
-            'name': '北京市市辖区',
+            'name': '市辖区',
             'value': '110100',
             'parent': '110000'
         },
@@ -202,17 +82,21 @@ exports.chinaAddres = {
             'parent': '110100'
         },
         {
-            'name': '密云县',
-            'value': '110228',
+            'name': '密云区',
+            'value': '110118',
             'parent': '110100'
         },
         {
-            'name': '延庆县',
-            'value': '110229',
+            'name': '延庆区',
+            'value': '110119',
             'parent': '110100'
         },
         {
-            'name': '天津市市辖区',
+            'name': '天津市',
+            'value': '120000'
+        },
+        {
+            'name': '市辖区',
             'value': '120100',
             'parent': '120000'
         },
@@ -292,9 +176,13 @@ exports.chinaAddres = {
             'parent': '120100'
         },
         {
-            'name': '蓟县',
-            'value': '120225',
+            'name': '蓟州区',
+            'value': '120119',
             'parent': '120100'
+        },
+        {
+            'name': '河北省',
+            'value': '130000'
         },
         {
             'name': '石家庄市',
@@ -302,64 +190,9 @@ exports.chinaAddres = {
             'parent': '130000'
         },
         {
-            'name': '唐山市',
-            'value': '130200',
-            'parent': '130000'
-        },
-        {
-            'name': '秦皇岛市',
-            'value': '130300',
-            'parent': '130000'
-        },
-        {
-            'name': '邯郸市',
-            'value': '130400',
-            'parent': '130000'
-        },
-        {
-            'name': '邢台市',
-            'value': '130500',
-            'parent': '130000'
-        },
-        {
-            'name': '保定市',
-            'value': '130600',
-            'parent': '130000'
-        },
-        {
-            'name': '张家口市',
-            'value': '130700',
-            'parent': '130000'
-        },
-        {
-            'name': '承德市',
-            'value': '130800',
-            'parent': '130000'
-        },
-        {
-            'name': '沧州市',
-            'value': '130900',
-            'parent': '130000'
-        },
-        {
-            'name': '廊坊市',
-            'value': '131000',
-            'parent': '130000'
-        },
-        {
-            'name': '衡水市',
-            'value': '131100',
-            'parent': '130000'
-        },
-        {
-            'name': '定州市',
-            'value': '139001',
-            'parent': '130000'
-        },
-        {
-            'name': '辛集市',
-            'value': '139002',
-            'parent': '130000'
+            'name': '市辖区',
+            'value': '130101',
+            'parent': '130100'
         },
         {
             'name': '长安区',
@@ -467,6 +300,16 @@ exports.chinaAddres = {
             'parent': '130100'
         },
         {
+            'name': '唐山市',
+            'value': '130200',
+            'parent': '130100'
+        },
+        {
+            'name': '市辖区',
+            'value': '130201',
+            'parent': '130200'
+        },
+        {
             'name': '路南区',
             'value': '130202',
             'parent': '130200'
@@ -537,6 +380,16 @@ exports.chinaAddres = {
             'parent': '130200'
         },
         {
+            'name': '秦皇岛市',
+            'value': '130300',
+            'parent': '130200'
+        },
+        {
+            'name': '市辖区',
+            'value': '130301',
+            'parent': '130300'
+        },
+        {
             'name': '海港区',
             'value': '130302',
             'parent': '130300'
@@ -570,6 +423,16 @@ exports.chinaAddres = {
             'name': '卢龙县',
             'value': '130324',
             'parent': '130300'
+        },
+        {
+            'name': '邯郸市',
+            'value': '130400',
+            'parent': '130300'
+        },
+        {
+            'name': '市辖区',
+            'value': '130401',
+            'parent': '130400'
         },
         {
             'name': '邯山区',
@@ -667,6 +530,16 @@ exports.chinaAddres = {
             'parent': '130400'
         },
         {
+            'name': '邢台市',
+            'value': '130500',
+            'parent': '130400'
+        },
+        {
+            'name': '市辖区',
+            'value': '130501',
+            'parent': '130500'
+        },
+        {
             'name': '桥东区',
             'value': '130502',
             'parent': '130500'
@@ -760,6 +633,16 @@ exports.chinaAddres = {
             'name': '沙河市',
             'value': '130582',
             'parent': '130500'
+        },
+        {
+            'name': '保定市',
+            'value': '130600',
+            'parent': '130500'
+        },
+        {
+            'name': '市辖区',
+            'value': '130601',
+            'parent': '130600'
         },
         {
             'name': '竞秀区',
@@ -877,6 +760,16 @@ exports.chinaAddres = {
             'parent': '130600'
         },
         {
+            'name': '张家口市',
+            'value': '130700',
+            'parent': '130600'
+        },
+        {
+            'name': '市辖区',
+            'value': '130701',
+            'parent': '130700'
+        },
+        {
             'name': '桥东区',
             'value': '130702',
             'parent': '130700'
@@ -897,8 +790,13 @@ exports.chinaAddres = {
             'parent': '130700'
         },
         {
-            'name': '宣化县',
-            'value': '130721',
+            'name': '万全区',
+            'value': '130708',
+            'parent': '130700'
+        },
+        {
+            'name': '崇礼区',
+            'value': '130709',
             'parent': '130700'
         },
         {
@@ -937,11 +835,6 @@ exports.chinaAddres = {
             'parent': '130700'
         },
         {
-            'name': '万全县',
-            'value': '130729',
-            'parent': '130700'
-        },
-        {
             'name': '怀来县',
             'value': '130730',
             'parent': '130700'
@@ -957,9 +850,14 @@ exports.chinaAddres = {
             'parent': '130700'
         },
         {
-            'name': '崇礼县',
-            'value': '130733',
+            'name': '承德市',
+            'value': '130800',
             'parent': '130700'
+        },
+        {
+            'name': '市辖区',
+            'value': '130801',
+            'parent': '130800'
         },
         {
             'name': '双桥区',
@@ -1015,6 +913,16 @@ exports.chinaAddres = {
             'name': '围场满族蒙古族自治县',
             'value': '130828',
             'parent': '130800'
+        },
+        {
+            'name': '沧州市',
+            'value': '130900',
+            'parent': '130800'
+        },
+        {
+            'name': '市辖区',
+            'value': '130901',
+            'parent': '130900'
         },
         {
             'name': '新华区',
@@ -1097,6 +1005,16 @@ exports.chinaAddres = {
             'parent': '130900'
         },
         {
+            'name': '廊坊市',
+            'value': '131000',
+            'parent': '130900'
+        },
+        {
+            'name': '市辖区',
+            'value': '131001',
+            'parent': '131000'
+        },
+        {
             'name': '安次区',
             'value': '131002',
             'parent': '131000'
@@ -1147,8 +1065,23 @@ exports.chinaAddres = {
             'parent': '131000'
         },
         {
+            'name': '衡水市',
+            'value': '131100',
+            'parent': '131000'
+        },
+        {
+            'name': '市辖区',
+            'value': '131101',
+            'parent': '131100'
+        },
+        {
             'name': '桃城区',
             'value': '131102',
+            'parent': '131100'
+        },
+        {
+            'name': '冀州区',
+            'value': '131103',
             'parent': '131100'
         },
         {
@@ -1192,14 +1125,28 @@ exports.chinaAddres = {
             'parent': '131100'
         },
         {
-            'name': '冀州市',
-            'value': '131181',
-            'parent': '131100'
-        },
-        {
             'name': '深州市',
             'value': '131182',
             'parent': '131100'
+        },
+        {
+            'name': '省直辖县级行政区划',
+            'value': '139000',
+            'parent': '131100'
+        },
+        {
+            'name': '定州市',
+            'value': '139001',
+            'parent': '139000'
+        },
+        {
+            'name': '辛集市',
+            'value': '139002',
+            'parent': '139000'
+        },
+        {
+            'name': '山西省',
+            'value': '140000'
         },
         {
             'name': '太原市',
@@ -1207,54 +1154,9 @@ exports.chinaAddres = {
             'parent': '140000'
         },
         {
-            'name': '大同市',
-            'value': '140200',
-            'parent': '140000'
-        },
-        {
-            'name': '阳泉市',
-            'value': '140300',
-            'parent': '140000'
-        },
-        {
-            'name': '长治市',
-            'value': '140400',
-            'parent': '140000'
-        },
-        {
-            'name': '晋城市',
-            'value': '140500',
-            'parent': '140000'
-        },
-        {
-            'name': '朔州市',
-            'value': '140600',
-            'parent': '140000'
-        },
-        {
-            'name': '晋中市',
-            'value': '140700',
-            'parent': '140000'
-        },
-        {
-            'name': '运城市',
-            'value': '140800',
-            'parent': '140000'
-        },
-        {
-            'name': '忻州市',
-            'value': '140900',
-            'parent': '140000'
-        },
-        {
-            'name': '临汾市',
-            'value': '141000',
-            'parent': '140000'
-        },
-        {
-            'name': '吕梁市',
-            'value': '141100',
-            'parent': '140000'
+            'name': '市辖区',
+            'value': '140101',
+            'parent': '140100'
         },
         {
             'name': '小店区',
@@ -1305,6 +1207,16 @@ exports.chinaAddres = {
             'name': '古交市',
             'value': '140181',
             'parent': '140100'
+        },
+        {
+            'name': '大同市',
+            'value': '140200',
+            'parent': '140100'
+        },
+        {
+            'name': '市辖区',
+            'value': '140201',
+            'parent': '140200'
         },
         {
             'name': '城区',
@@ -1362,6 +1274,16 @@ exports.chinaAddres = {
             'parent': '140200'
         },
         {
+            'name': '阳泉市',
+            'value': '140300',
+            'parent': '140200'
+        },
+        {
+            'name': '市辖区',
+            'value': '140301',
+            'parent': '140300'
+        },
+        {
             'name': '城区',
             'value': '140302',
             'parent': '140300'
@@ -1385,6 +1307,16 @@ exports.chinaAddres = {
             'name': '盂县',
             'value': '140322',
             'parent': '140300'
+        },
+        {
+            'name': '长治市',
+            'value': '140400',
+            'parent': '140300'
+        },
+        {
+            'name': '市辖区',
+            'value': '140401',
+            'parent': '140400'
         },
         {
             'name': '城区',
@@ -1452,6 +1384,16 @@ exports.chinaAddres = {
             'parent': '140400'
         },
         {
+            'name': '晋城市',
+            'value': '140500',
+            'parent': '140400'
+        },
+        {
+            'name': '市辖区',
+            'value': '140501',
+            'parent': '140500'
+        },
+        {
             'name': '城区',
             'value': '140502',
             'parent': '140500'
@@ -1482,6 +1424,16 @@ exports.chinaAddres = {
             'parent': '140500'
         },
         {
+            'name': '朔州市',
+            'value': '140600',
+            'parent': '140500'
+        },
+        {
+            'name': '市辖区',
+            'value': '140601',
+            'parent': '140600'
+        },
+        {
             'name': '朔城区',
             'value': '140602',
             'parent': '140600'
@@ -1510,6 +1462,16 @@ exports.chinaAddres = {
             'name': '怀仁县',
             'value': '140624',
             'parent': '140600'
+        },
+        {
+            'name': '晋中市',
+            'value': '140700',
+            'parent': '140600'
+        },
+        {
+            'name': '市辖区',
+            'value': '140701',
+            'parent': '140700'
         },
         {
             'name': '榆次区',
@@ -1565,6 +1527,16 @@ exports.chinaAddres = {
             'name': '介休市',
             'value': '140781',
             'parent': '140700'
+        },
+        {
+            'name': '运城市',
+            'value': '140800',
+            'parent': '140700'
+        },
+        {
+            'name': '市辖区',
+            'value': '140801',
+            'parent': '140800'
         },
         {
             'name': '盐湖区',
@@ -1630,6 +1602,16 @@ exports.chinaAddres = {
             'name': '河津市',
             'value': '140882',
             'parent': '140800'
+        },
+        {
+            'name': '忻州市',
+            'value': '140900',
+            'parent': '140800'
+        },
+        {
+            'name': '市辖区',
+            'value': '140901',
+            'parent': '140900'
         },
         {
             'name': '忻府区',
@@ -1700,6 +1682,16 @@ exports.chinaAddres = {
             'name': '原平市',
             'value': '140981',
             'parent': '140900'
+        },
+        {
+            'name': '临汾市',
+            'value': '141000',
+            'parent': '140900'
+        },
+        {
+            'name': '市辖区',
+            'value': '141001',
+            'parent': '141000'
         },
         {
             'name': '尧都区',
@@ -1787,6 +1779,16 @@ exports.chinaAddres = {
             'parent': '141000'
         },
         {
+            'name': '吕梁市',
+            'value': '141100',
+            'parent': '141000'
+        },
+        {
+            'name': '市辖区',
+            'value': '141101',
+            'parent': '141100'
+        },
+        {
             'name': '离石区',
             'value': '141102',
             'parent': '141100'
@@ -1852,64 +1854,18 @@ exports.chinaAddres = {
             'parent': '141100'
         },
         {
+            'name': '内蒙古自治区',
+            'value': '150000'
+        },
+        {
             'name': '呼和浩特市',
             'value': '150100',
             'parent': '150000'
         },
         {
-            'name': '包头市',
-            'value': '150200',
-            'parent': '150000'
-        },
-        {
-            'name': '乌海市',
-            'value': '150300',
-            'parent': '150000'
-        },
-        {
-            'name': '赤峰市',
-            'value': '150400',
-            'parent': '150000'
-        },
-        {
-            'name': '通辽市',
-            'value': '150500',
-            'parent': '150000'
-        },
-        {
-            'name': '鄂尔多斯市',
-            'value': '150600',
-            'parent': '150000'
-        },
-        {
-            'name': '呼伦贝尔市',
-            'value': '150700',
-            'parent': '150000'
-        },
-        {
-            'name': '巴彦淖尔市',
-            'value': '150800',
-            'parent': '150000'
-        },
-        {
-            'name': '乌兰察布市',
-            'value': '150900',
-            'parent': '150000'
-        },
-        {
-            'name': '兴安盟',
-            'value': '152200',
-            'parent': '150000'
-        },
-        {
-            'name': '锡林郭勒盟',
-            'value': '152500',
-            'parent': '150000'
-        },
-        {
-            'name': '阿拉善盟',
-            'value': '152900',
-            'parent': '150000'
+            'name': '市辖区',
+            'value': '150101',
+            'parent': '150100'
         },
         {
             'name': '新城区',
@@ -1957,6 +1913,16 @@ exports.chinaAddres = {
             'parent': '150100'
         },
         {
+            'name': '包头市',
+            'value': '150200',
+            'parent': '150100'
+        },
+        {
+            'name': '市辖区',
+            'value': '150201',
+            'parent': '150200'
+        },
+        {
             'name': '东河区',
             'value': '150202',
             'parent': '150200'
@@ -2002,6 +1968,16 @@ exports.chinaAddres = {
             'parent': '150200'
         },
         {
+            'name': '乌海市',
+            'value': '150300',
+            'parent': '150200'
+        },
+        {
+            'name': '市辖区',
+            'value': '150301',
+            'parent': '150300'
+        },
+        {
             'name': '海勃湾区',
             'value': '150302',
             'parent': '150300'
@@ -2015,6 +1991,16 @@ exports.chinaAddres = {
             'name': '乌达区',
             'value': '150304',
             'parent': '150300'
+        },
+        {
+            'name': '赤峰市',
+            'value': '150400',
+            'parent': '150300'
+        },
+        {
+            'name': '市辖区',
+            'value': '150401',
+            'parent': '150400'
         },
         {
             'name': '红山区',
@@ -2077,6 +2063,16 @@ exports.chinaAddres = {
             'parent': '150400'
         },
         {
+            'name': '通辽市',
+            'value': '150500',
+            'parent': '150400'
+        },
+        {
+            'name': '市辖区',
+            'value': '150501',
+            'parent': '150500'
+        },
+        {
             'name': '科尔沁区',
             'value': '150502',
             'parent': '150500'
@@ -2117,8 +2113,23 @@ exports.chinaAddres = {
             'parent': '150500'
         },
         {
+            'name': '鄂尔多斯市',
+            'value': '150600',
+            'parent': '150500'
+        },
+        {
+            'name': '市辖区',
+            'value': '150601',
+            'parent': '150600'
+        },
+        {
             'name': '东胜区',
             'value': '150602',
+            'parent': '150600'
+        },
+        {
+            'name': '康巴什区',
+            'value': '150603',
             'parent': '150600'
         },
         {
@@ -2155,6 +2166,16 @@ exports.chinaAddres = {
             'name': '伊金霍洛旗',
             'value': '150627',
             'parent': '150600'
+        },
+        {
+            'name': '呼伦贝尔市',
+            'value': '150700',
+            'parent': '150600'
+        },
+        {
+            'name': '市辖区',
+            'value': '150701',
+            'parent': '150700'
         },
         {
             'name': '海拉尔区',
@@ -2227,6 +2248,16 @@ exports.chinaAddres = {
             'parent': '150700'
         },
         {
+            'name': '巴彦淖尔市',
+            'value': '150800',
+            'parent': '150700'
+        },
+        {
+            'name': '市辖区',
+            'value': '150801',
+            'parent': '150800'
+        },
+        {
             'name': '临河区',
             'value': '150802',
             'parent': '150800'
@@ -2260,6 +2291,16 @@ exports.chinaAddres = {
             'name': '杭锦后旗',
             'value': '150826',
             'parent': '150800'
+        },
+        {
+            'name': '乌兰察布市',
+            'value': '150900',
+            'parent': '150800'
+        },
+        {
+            'name': '市辖区',
+            'value': '150901',
+            'parent': '150900'
         },
         {
             'name': '集宁区',
@@ -2317,6 +2358,11 @@ exports.chinaAddres = {
             'parent': '150900'
         },
         {
+            'name': '兴安盟',
+            'value': '152200',
+            'parent': '150900'
+        },
+        {
             'name': '乌兰浩特市',
             'value': '152201',
             'parent': '152200'
@@ -2344,6 +2390,11 @@ exports.chinaAddres = {
         {
             'name': '突泉县',
             'value': '152224',
+            'parent': '152200'
+        },
+        {
+            'name': '锡林郭勒盟',
+            'value': '152500',
             'parent': '152200'
         },
         {
@@ -2407,6 +2458,11 @@ exports.chinaAddres = {
             'parent': '152500'
         },
         {
+            'name': '阿拉善盟',
+            'value': '152900',
+            'parent': '152500'
+        },
+        {
             'name': '阿拉善左旗',
             'value': '152921',
             'parent': '152900'
@@ -2422,74 +2478,18 @@ exports.chinaAddres = {
             'parent': '152900'
         },
         {
+            'name': '辽宁省',
+            'value': '210000'
+        },
+        {
             'name': '沈阳市',
             'value': '210100',
             'parent': '210000'
         },
         {
-            'name': '大连市',
-            'value': '210200',
-            'parent': '210000'
-        },
-        {
-            'name': '鞍山市',
-            'value': '210300',
-            'parent': '210000'
-        },
-        {
-            'name': '抚顺市',
-            'value': '210400',
-            'parent': '210000'
-        },
-        {
-            'name': '本溪市',
-            'value': '210500',
-            'parent': '210000'
-        },
-        {
-            'name': '丹东市',
-            'value': '210600',
-            'parent': '210000'
-        },
-        {
-            'name': '锦州市',
-            'value': '210700',
-            'parent': '210000'
-        },
-        {
-            'name': '营口市',
-            'value': '210800',
-            'parent': '210000'
-        },
-        {
-            'name': '阜新市',
-            'value': '210900',
-            'parent': '210000'
-        },
-        {
-            'name': '辽阳市',
-            'value': '211000',
-            'parent': '210000'
-        },
-        {
-            'name': '盘锦市',
-            'value': '211100',
-            'parent': '210000'
-        },
-        {
-            'name': '铁岭市',
-            'value': '211200',
-            'parent': '210000'
-        },
-        {
-            'name': '朝阳市',
-            'value': '211300',
-            'parent': '210000'
-        },
-        {
-            'name': '葫芦岛市',
-            'value': '211400',
-            'parent': '210000'
+            'name': '市辖区',
+            'value': '210101',
+            'parent': '210100'
         },
         {
             'name': '和平区',
@@ -2537,8 +2537,8 @@ exports.chinaAddres = {
             'parent': '210100'
         },
         {
-            'name': '辽中县',
-            'value': '210122',
+            'name': '辽中区',
+            'value': '210115',
             'parent': '210100'
         },
         {
@@ -2555,6 +2555,16 @@ exports.chinaAddres = {
             'name': '新民市',
             'value': '210181',
             'parent': '210100'
+        },
+        {
+            'name': '大连市',
+            'value': '210200',
+            'parent': '210100'
+        },
+        {
+            'name': '市辖区',
+            'value': '210201',
+            'parent': '210200'
         },
         {
             'name': '中山区',
@@ -2587,6 +2597,11 @@ exports.chinaAddres = {
             'parent': '210200'
         },
         {
+            'name': '普兰店区',
+            'value': '210214',
+            'parent': '210200'
+        },
+        {
             'name': '长海县',
             'value': '210224',
             'parent': '210200'
@@ -2597,14 +2612,19 @@ exports.chinaAddres = {
             'parent': '210200'
         },
         {
-            'name': '普兰店市',
-            'value': '210282',
-            'parent': '210200'
-        },
-        {
             'name': '庄河市',
             'value': '210283',
             'parent': '210200'
+        },
+        {
+            'name': '鞍山市',
+            'value': '210300',
+            'parent': '210200'
+        },
+        {
+            'name': '市辖区',
+            'value': '210301',
+            'parent': '210300'
         },
         {
             'name': '铁东区',
@@ -2642,6 +2662,16 @@ exports.chinaAddres = {
             'parent': '210300'
         },
         {
+            'name': '抚顺市',
+            'value': '210400',
+            'parent': '210300'
+        },
+        {
+            'name': '市辖区',
+            'value': '210401',
+            'parent': '210400'
+        },
+        {
             'name': '新抚区',
             'value': '210402',
             'parent': '210400'
@@ -2677,6 +2707,16 @@ exports.chinaAddres = {
             'parent': '210400'
         },
         {
+            'name': '本溪市',
+            'value': '210500',
+            'parent': '210400'
+        },
+        {
+            'name': '市辖区',
+            'value': '210501',
+            'parent': '210500'
+        },
+        {
             'name': '平山区',
             'value': '210502',
             'parent': '210500'
@@ -2707,6 +2747,16 @@ exports.chinaAddres = {
             'parent': '210500'
         },
         {
+            'name': '丹东市',
+            'value': '210600',
+            'parent': '210500'
+        },
+        {
+            'name': '市辖区',
+            'value': '210601',
+            'parent': '210600'
+        },
+        {
             'name': '元宝区',
             'value': '210602',
             'parent': '210600'
@@ -2735,6 +2785,16 @@ exports.chinaAddres = {
             'name': '凤城市',
             'value': '210682',
             'parent': '210600'
+        },
+        {
+            'name': '锦州市',
+            'value': '210700',
+            'parent': '210600'
+        },
+        {
+            'name': '市辖区',
+            'value': '210701',
+            'parent': '210700'
         },
         {
             'name': '古塔区',
@@ -2772,6 +2832,16 @@ exports.chinaAddres = {
             'parent': '210700'
         },
         {
+            'name': '营口市',
+            'value': '210800',
+            'parent': '210700'
+        },
+        {
+            'name': '市辖区',
+            'value': '210801',
+            'parent': '210800'
+        },
+        {
             'name': '站前区',
             'value': '210802',
             'parent': '210800'
@@ -2800,6 +2870,16 @@ exports.chinaAddres = {
             'name': '大石桥市',
             'value': '210882',
             'parent': '210800'
+        },
+        {
+            'name': '阜新市',
+            'value': '210900',
+            'parent': '210800'
+        },
+        {
+            'name': '市辖区',
+            'value': '210901',
+            'parent': '210900'
         },
         {
             'name': '海州区',
@@ -2837,6 +2917,16 @@ exports.chinaAddres = {
             'parent': '210900'
         },
         {
+            'name': '辽阳市',
+            'value': '211000',
+            'parent': '210900'
+        },
+        {
+            'name': '市辖区',
+            'value': '211001',
+            'parent': '211000'
+        },
+        {
             'name': '白塔区',
             'value': '211002',
             'parent': '211000'
@@ -2872,6 +2962,16 @@ exports.chinaAddres = {
             'parent': '211000'
         },
         {
+            'name': '盘锦市',
+            'value': '211100',
+            'parent': '211000'
+        },
+        {
+            'name': '市辖区',
+            'value': '211101',
+            'parent': '211100'
+        },
+        {
             'name': '双台子区',
             'value': '211102',
             'parent': '211100'
@@ -2882,14 +2982,24 @@ exports.chinaAddres = {
             'parent': '211100'
         },
         {
-            'name': '大洼县',
-            'value': '211121',
+            'name': '大洼区',
+            'value': '211104',
             'parent': '211100'
         },
         {
             'name': '盘山县',
             'value': '211122',
             'parent': '211100'
+        },
+        {
+            'name': '铁岭市',
+            'value': '211200',
+            'parent': '211100'
+        },
+        {
+            'name': '市辖区',
+            'value': '211201',
+            'parent': '211200'
         },
         {
             'name': '银州区',
@@ -2927,6 +3037,16 @@ exports.chinaAddres = {
             'parent': '211200'
         },
         {
+            'name': '朝阳市',
+            'value': '211300',
+            'parent': '211200'
+        },
+        {
+            'name': '市辖区',
+            'value': '211301',
+            'parent': '211300'
+        },
+        {
             'name': '双塔区',
             'value': '211302',
             'parent': '211300'
@@ -2962,6 +3082,16 @@ exports.chinaAddres = {
             'parent': '211300'
         },
         {
+            'name': '葫芦岛市',
+            'value': '211400',
+            'parent': '211300'
+        },
+        {
+            'name': '市辖区',
+            'value': '211401',
+            'parent': '211400'
+        },
+        {
             'name': '连山区',
             'value': '211402',
             'parent': '211400'
@@ -2992,49 +3122,18 @@ exports.chinaAddres = {
             'parent': '211400'
         },
         {
+            'name': '吉林省',
+            'value': '220000'
+        },
+        {
             'name': '长春市',
             'value': '220100',
             'parent': '220000'
         },
         {
-            'name': '吉林市',
-            'value': '220200',
-            'parent': '220000'
-        },
-        {
-            'name': '四平市',
-            'value': '220300',
-            'parent': '220000'
-        },
-        {
-            'name': '辽源市',
-            'value': '220400',
-            'parent': '220000'
-        },
-        {
-            'name': '通化市',
-            'value': '220500',
-            'parent': '220000'
-        },
-        {
-            'name': '白山市',
-            'value': '220600',
-            'parent': '220000'
-        },
-        {
-            'name': '松原市',
-            'value': '220700',
-            'parent': '220000'
-        },
-        {
-            'name': '白城市',
-            'value': '220800',
-            'parent': '220000'
-        },
-        {
-            'name': '延边朝鲜族自治州',
-            'value': '222400',
-            'parent': '220000'
+            'name': '市辖区',
+            'value': '220101',
+            'parent': '220100'
         },
         {
             'name': '南关区',
@@ -3087,6 +3186,16 @@ exports.chinaAddres = {
             'parent': '220100'
         },
         {
+            'name': '吉林市',
+            'value': '220200',
+            'parent': '220100'
+        },
+        {
+            'name': '市辖区',
+            'value': '220201',
+            'parent': '220200'
+        },
+        {
             'name': '昌邑区',
             'value': '220202',
             'parent': '220200'
@@ -3132,6 +3241,16 @@ exports.chinaAddres = {
             'parent': '220200'
         },
         {
+            'name': '四平市',
+            'value': '220300',
+            'parent': '220200'
+        },
+        {
+            'name': '市辖区',
+            'value': '220301',
+            'parent': '220300'
+        },
+        {
             'name': '铁西区',
             'value': '220302',
             'parent': '220300'
@@ -3162,6 +3281,16 @@ exports.chinaAddres = {
             'parent': '220300'
         },
         {
+            'name': '辽源市',
+            'value': '220400',
+            'parent': '220300'
+        },
+        {
+            'name': '市辖区',
+            'value': '220401',
+            'parent': '220400'
+        },
+        {
             'name': '龙山区',
             'value': '220402',
             'parent': '220400'
@@ -3180,6 +3309,16 @@ exports.chinaAddres = {
             'name': '东辽县',
             'value': '220422',
             'parent': '220400'
+        },
+        {
+            'name': '通化市',
+            'value': '220500',
+            'parent': '220400'
+        },
+        {
+            'name': '市辖区',
+            'value': '220501',
+            'parent': '220500'
         },
         {
             'name': '东昌区',
@@ -3217,6 +3356,16 @@ exports.chinaAddres = {
             'parent': '220500'
         },
         {
+            'name': '白山市',
+            'value': '220600',
+            'parent': '220500'
+        },
+        {
+            'name': '市辖区',
+            'value': '220601',
+            'parent': '220600'
+        },
+        {
             'name': '浑江区',
             'value': '220602',
             'parent': '220600'
@@ -3247,6 +3396,16 @@ exports.chinaAddres = {
             'parent': '220600'
         },
         {
+            'name': '松原市',
+            'value': '220700',
+            'parent': '220600'
+        },
+        {
+            'name': '市辖区',
+            'value': '220701',
+            'parent': '220700'
+        },
+        {
             'name': '宁江区',
             'value': '220702',
             'parent': '220700'
@@ -3272,6 +3431,16 @@ exports.chinaAddres = {
             'parent': '220700'
         },
         {
+            'name': '白城市',
+            'value': '220800',
+            'parent': '220700'
+        },
+        {
+            'name': '市辖区',
+            'value': '220801',
+            'parent': '220800'
+        },
+        {
             'name': '洮北区',
             'value': '220802',
             'parent': '220800'
@@ -3294,6 +3463,11 @@ exports.chinaAddres = {
         {
             'name': '大安市',
             'value': '220882',
+            'parent': '220800'
+        },
+        {
+            'name': '延边朝鲜族自治州',
+            'value': '222400',
             'parent': '220800'
         },
         {
@@ -3337,69 +3511,18 @@ exports.chinaAddres = {
             'parent': '222400'
         },
         {
+            'name': '黑龙江省',
+            'value': '230000'
+        },
+        {
             'name': '哈尔滨市',
             'value': '230100',
             'parent': '230000'
         },
         {
-            'name': '齐齐哈尔市',
-            'value': '230200',
-            'parent': '230000'
-        },
-        {
-            'name': '鸡西市',
-            'value': '230300',
-            'parent': '230000'
-        },
-        {
-            'name': '鹤岗市',
-            'value': '230400',
-            'parent': '230000'
-        },
-        {
-            'name': '双鸭山市',
-            'value': '230500',
-            'parent': '230000'
-        },
-        {
-            'name': '大庆市',
-            'value': '230600',
-            'parent': '230000'
-        },
-        {
-            'name': '伊春市',
-            'value': '230700',
-            'parent': '230000'
-        },
-        {
-            'name': '佳木斯市',
-            'value': '230800',
-            'parent': '230000'
-        },
-        {
-            'name': '七台河市',
-            'value': '230900',
-            'parent': '230000'
-        },
-        {
-            'name': '牡丹江市',
-            'value': '231000',
-            'parent': '230000'
-        },
-        {
-            'name': '黑河市',
-            'value': '231100',
-            'parent': '230000'
-        },
-        {
-            'name': '绥化市',
-            'value': '231200',
-            'parent': '230000'
-        },
-        {
-            'name': '大兴安岭地区',
-            'value': '232700',
-            'parent': '230000'
+            'name': '市辖区',
+            'value': '230101',
+            'parent': '230100'
         },
         {
             'name': '道里区',
@@ -3492,6 +3615,16 @@ exports.chinaAddres = {
             'parent': '230100'
         },
         {
+            'name': '齐齐哈尔市',
+            'value': '230200',
+            'parent': '230100'
+        },
+        {
+            'name': '市辖区',
+            'value': '230201',
+            'parent': '230200'
+        },
+        {
             'name': '龙沙区',
             'value': '230202',
             'parent': '230200'
@@ -3572,6 +3705,16 @@ exports.chinaAddres = {
             'parent': '230200'
         },
         {
+            'name': '鸡西市',
+            'value': '230300',
+            'parent': '230200'
+        },
+        {
+            'name': '市辖区',
+            'value': '230301',
+            'parent': '230300'
+        },
+        {
             'name': '鸡冠区',
             'value': '230302',
             'parent': '230300'
@@ -3617,6 +3760,16 @@ exports.chinaAddres = {
             'parent': '230300'
         },
         {
+            'name': '鹤岗市',
+            'value': '230400',
+            'parent': '230300'
+        },
+        {
+            'name': '市辖区',
+            'value': '230401',
+            'parent': '230400'
+        },
+        {
             'name': '向阳区',
             'value': '230402',
             'parent': '230400'
@@ -3657,6 +3810,16 @@ exports.chinaAddres = {
             'parent': '230400'
         },
         {
+            'name': '双鸭山市',
+            'value': '230500',
+            'parent': '230400'
+        },
+        {
+            'name': '市辖区',
+            'value': '230501',
+            'parent': '230500'
+        },
+        {
             'name': '尖山区',
             'value': '230502',
             'parent': '230500'
@@ -3695,6 +3858,16 @@ exports.chinaAddres = {
             'name': '饶河县',
             'value': '230524',
             'parent': '230500'
+        },
+        {
+            'name': '大庆市',
+            'value': '230600',
+            'parent': '230500'
+        },
+        {
+            'name': '市辖区',
+            'value': '230601',
+            'parent': '230600'
         },
         {
             'name': '萨尔图区',
@@ -3740,6 +3913,16 @@ exports.chinaAddres = {
             'name': '杜尔伯特蒙古族自治县',
             'value': '230624',
             'parent': '230600'
+        },
+        {
+            'name': '伊春市',
+            'value': '230700',
+            'parent': '230600'
+        },
+        {
+            'name': '市辖区',
+            'value': '230701',
+            'parent': '230700'
         },
         {
             'name': '伊春区',
@@ -3827,6 +4010,16 @@ exports.chinaAddres = {
             'parent': '230700'
         },
         {
+            'name': '佳木斯市',
+            'value': '230800',
+            'parent': '230700'
+        },
+        {
+            'name': '市辖区',
+            'value': '230801',
+            'parent': '230800'
+        },
+        {
             'name': '向阳区',
             'value': '230803',
             'parent': '230800'
@@ -3862,11 +4055,6 @@ exports.chinaAddres = {
             'parent': '230800'
         },
         {
-            'name': '抚远县',
-            'value': '230833',
-            'parent': '230800'
-        },
-        {
             'name': '同江市',
             'value': '230881',
             'parent': '230800'
@@ -3875,6 +4063,21 @@ exports.chinaAddres = {
             'name': '富锦市',
             'value': '230882',
             'parent': '230800'
+        },
+        {
+            'name': '抚远市',
+            'value': '230883',
+            'parent': '230800'
+        },
+        {
+            'name': '七台河市',
+            'value': '230900',
+            'parent': '230800'
+        },
+        {
+            'name': '市辖区',
+            'value': '230901',
+            'parent': '230900'
         },
         {
             'name': '新兴区',
@@ -3897,6 +4100,16 @@ exports.chinaAddres = {
             'parent': '230900'
         },
         {
+            'name': '牡丹江市',
+            'value': '231000',
+            'parent': '230900'
+        },
+        {
+            'name': '市辖区',
+            'value': '231001',
+            'parent': '231000'
+        },
+        {
             'name': '东安区',
             'value': '231002',
             'parent': '231000'
@@ -3914,11 +4127,6 @@ exports.chinaAddres = {
         {
             'name': '西安区',
             'value': '231005',
-            'parent': '231000'
-        },
-        {
-            'name': '东宁县',
-            'value': '231024',
             'parent': '231000'
         },
         {
@@ -3945,6 +4153,21 @@ exports.chinaAddres = {
             'name': '穆棱市',
             'value': '231085',
             'parent': '231000'
+        },
+        {
+            'name': '东宁市',
+            'value': '231086',
+            'parent': '231000'
+        },
+        {
+            'name': '黑河市',
+            'value': '231100',
+            'parent': '231000'
+        },
+        {
+            'name': '市辖区',
+            'value': '231101',
+            'parent': '231100'
         },
         {
             'name': '爱辉区',
@@ -3975,6 +4198,16 @@ exports.chinaAddres = {
             'name': '五大连池市',
             'value': '231182',
             'parent': '231100'
+        },
+        {
+            'name': '绥化市',
+            'value': '231200',
+            'parent': '231100'
+        },
+        {
+            'name': '市辖区',
+            'value': '231201',
+            'parent': '231200'
         },
         {
             'name': '北林区',
@@ -4027,6 +4260,11 @@ exports.chinaAddres = {
             'parent': '231200'
         },
         {
+            'name': '大兴安岭地区',
+            'value': '232700',
+            'parent': '231200'
+        },
+        {
             'name': '呼玛县',
             'value': '232721',
             'parent': '232700'
@@ -4042,7 +4280,11 @@ exports.chinaAddres = {
             'parent': '232700'
         },
         {
-            'name': '上海市市辖区',
+            'name': '上海市',
+            'value': '310000'
+        },
+        {
+            'name': '市辖区',
             'value': '310100',
             'parent': '310000'
         },
@@ -4069,11 +4311,6 @@ exports.chinaAddres = {
         {
             'name': '普陀区',
             'value': '310107',
-            'parent': '310100'
-        },
-        {
-            'name': '闸北区',
-            'value': '310108',
             'parent': '310100'
         },
         {
@@ -4127,9 +4364,13 @@ exports.chinaAddres = {
             'parent': '310100'
         },
         {
-            'name': '崇明县',
-            'value': '310230',
+            'name': '崇明区',
+            'value': '310151',
             'parent': '310100'
+        },
+        {
+            'name': '江苏省',
+            'value': '320000'
         },
         {
             'name': '南京市',
@@ -4137,64 +4378,9 @@ exports.chinaAddres = {
             'parent': '320000'
         },
         {
-            'name': '无锡市',
-            'value': '320200',
-            'parent': '320000'
-        },
-        {
-            'name': '徐州市',
-            'value': '320300',
-            'parent': '320000'
-        },
-        {
-            'name': '常州市',
-            'value': '320400',
-            'parent': '320000'
-        },
-        {
-            'name': '苏州市',
-            'value': '320500',
-            'parent': '320000'
-        },
-        {
-            'name': '南通市',
-            'value': '320600',
-            'parent': '320000'
-        },
-        {
-            'name': '连云港市',
-            'value': '320700',
-            'parent': '320000'
-        },
-        {
-            'name': '淮安市',
-            'value': '320800',
-            'parent': '320000'
-        },
-        {
-            'name': '盐城市',
-            'value': '320900',
-            'parent': '320000'
-        },
-        {
-            'name': '扬州市',
-            'value': '321000',
-            'parent': '320000'
-        },
-        {
-            'name': '镇江市',
-            'value': '321100',
-            'parent': '320000'
-        },
-        {
-            'name': '泰州市',
-            'value': '321200',
-            'parent': '320000'
-        },
-        {
-            'name': '宿迁市',
-            'value': '321300',
-            'parent': '320000'
+            'name': '市辖区',
+            'value': '320101',
+            'parent': '320100'
         },
         {
             'name': '玄武区',
@@ -4252,18 +4438,13 @@ exports.chinaAddres = {
             'parent': '320100'
         },
         {
-            'name': '崇安区',
-            'value': '320202',
-            'parent': '320200'
+            'name': '无锡市',
+            'value': '320200',
+            'parent': '320100'
         },
         {
-            'name': '南长区',
-            'value': '320203',
-            'parent': '320200'
-        },
-        {
-            'name': '北塘区',
-            'value': '320204',
+            'name': '市辖区',
+            'value': '320201',
             'parent': '320200'
         },
         {
@@ -4282,6 +4463,16 @@ exports.chinaAddres = {
             'parent': '320200'
         },
         {
+            'name': '梁溪区',
+            'value': '320213',
+            'parent': '320200'
+        },
+        {
+            'name': '新吴区',
+            'value': '320214',
+            'parent': '320200'
+        },
+        {
             'name': '江阴市',
             'value': '320281',
             'parent': '320200'
@@ -4290,6 +4481,16 @@ exports.chinaAddres = {
             'name': '宜兴市',
             'value': '320282',
             'parent': '320200'
+        },
+        {
+            'name': '徐州市',
+            'value': '320300',
+            'parent': '320200'
+        },
+        {
+            'name': '市辖区',
+            'value': '320301',
+            'parent': '320300'
         },
         {
             'name': '鼓楼区',
@@ -4342,6 +4543,16 @@ exports.chinaAddres = {
             'parent': '320300'
         },
         {
+            'name': '常州市',
+            'value': '320400',
+            'parent': '320300'
+        },
+        {
+            'name': '市辖区',
+            'value': '320401',
+            'parent': '320400'
+        },
+        {
             'name': '天宁区',
             'value': '320402',
             'parent': '320400'
@@ -4370,6 +4581,16 @@ exports.chinaAddres = {
             'name': '溧阳市',
             'value': '320481',
             'parent': '320400'
+        },
+        {
+            'name': '苏州市',
+            'value': '320500',
+            'parent': '320400'
+        },
+        {
+            'name': '市辖区',
+            'value': '320501',
+            'parent': '320500'
         },
         {
             'name': '虎丘区',
@@ -4417,6 +4638,16 @@ exports.chinaAddres = {
             'parent': '320500'
         },
         {
+            'name': '南通市',
+            'value': '320600',
+            'parent': '320500'
+        },
+        {
+            'name': '市辖区',
+            'value': '320601',
+            'parent': '320600'
+        },
+        {
             'name': '崇川区',
             'value': '320602',
             'parent': '320600'
@@ -4457,6 +4688,16 @@ exports.chinaAddres = {
             'parent': '320600'
         },
         {
+            'name': '连云港市',
+            'value': '320700',
+            'parent': '320600'
+        },
+        {
+            'name': '市辖区',
+            'value': '320701',
+            'parent': '320700'
+        },
+        {
             'name': '连云区',
             'value': '320703',
             'parent': '320700'
@@ -4487,8 +4728,13 @@ exports.chinaAddres = {
             'parent': '320700'
         },
         {
-            'name': '清河区',
-            'value': '320802',
+            'name': '淮安市',
+            'value': '320800',
+            'parent': '320700'
+        },
+        {
+            'name': '市辖区',
+            'value': '320801',
             'parent': '320800'
         },
         {
@@ -4502,18 +4748,18 @@ exports.chinaAddres = {
             'parent': '320800'
         },
         {
-            'name': '清浦区',
-            'value': '320811',
+            'name': '清江浦区',
+            'value': '320812',
+            'parent': '320800'
+        },
+        {
+            'name': '洪泽区',
+            'value': '320813',
             'parent': '320800'
         },
         {
             'name': '涟水县',
             'value': '320826',
-            'parent': '320800'
-        },
-        {
-            'name': '洪泽县',
-            'value': '320829',
             'parent': '320800'
         },
         {
@@ -4525,6 +4771,16 @@ exports.chinaAddres = {
             'name': '金湖县',
             'value': '320831',
             'parent': '320800'
+        },
+        {
+            'name': '盐城市',
+            'value': '320900',
+            'parent': '320800'
+        },
+        {
+            'name': '市辖区',
+            'value': '320901',
+            'parent': '320900'
         },
         {
             'name': '亭湖区',
@@ -4572,6 +4828,16 @@ exports.chinaAddres = {
             'parent': '320900'
         },
         {
+            'name': '扬州市',
+            'value': '321000',
+            'parent': '320900'
+        },
+        {
+            'name': '市辖区',
+            'value': '321001',
+            'parent': '321000'
+        },
+        {
             'name': '广陵区',
             'value': '321002',
             'parent': '321000'
@@ -4600,6 +4866,16 @@ exports.chinaAddres = {
             'name': '高邮市',
             'value': '321084',
             'parent': '321000'
+        },
+        {
+            'name': '镇江市',
+            'value': '321100',
+            'parent': '321000'
+        },
+        {
+            'name': '市辖区',
+            'value': '321101',
+            'parent': '321100'
         },
         {
             'name': '京口区',
@@ -4632,6 +4908,16 @@ exports.chinaAddres = {
             'parent': '321100'
         },
         {
+            'name': '泰州市',
+            'value': '321200',
+            'parent': '321100'
+        },
+        {
+            'name': '市辖区',
+            'value': '321201',
+            'parent': '321200'
+        },
+        {
             'name': '海陵区',
             'value': '321202',
             'parent': '321200'
@@ -4662,6 +4948,16 @@ exports.chinaAddres = {
             'parent': '321200'
         },
         {
+            'name': '宿迁市',
+            'value': '321300',
+            'parent': '321200'
+        },
+        {
+            'name': '市辖区',
+            'value': '321301',
+            'parent': '321300'
+        },
+        {
             'name': '宿城区',
             'value': '321302',
             'parent': '321300'
@@ -4687,59 +4983,18 @@ exports.chinaAddres = {
             'parent': '321300'
         },
         {
+            'name': '浙江省',
+            'value': '330000'
+        },
+        {
             'name': '杭州市',
             'value': '330100',
             'parent': '330000'
         },
         {
-            'name': '宁波市',
-            'value': '330200',
-            'parent': '330000'
-        },
-        {
-            'name': '温州市',
-            'value': '330300',
-            'parent': '330000'
-        },
-        {
-            'name': '嘉兴市',
-            'value': '330400',
-            'parent': '330000'
-        },
-        {
-            'name': '湖州市',
-            'value': '330500',
-            'parent': '330000'
-        },
-        {
-            'name': '绍兴市',
-            'value': '330600',
-            'parent': '330000'
-        },
-        {
-            'name': '金华市',
-            'value': '330700',
-            'parent': '330000'
-        },
-        {
-            'name': '衢州市',
-            'value': '330800',
-            'parent': '330000'
-        },
-        {
-            'name': '舟山市',
-            'value': '330900',
-            'parent': '330000'
-        },
-        {
-            'name': '台州市',
-            'value': '331000',
-            'parent': '330000'
-        },
-        {
-            'name': '丽水市',
-            'value': '331100',
-            'parent': '330000'
+            'name': '市辖区',
+            'value': '330101',
+            'parent': '330100'
         },
         {
             'name': '上城区',
@@ -4807,6 +5062,16 @@ exports.chinaAddres = {
             'parent': '330100'
         },
         {
+            'name': '宁波市',
+            'value': '330200',
+            'parent': '330100'
+        },
+        {
+            'name': '市辖区',
+            'value': '330201',
+            'parent': '330200'
+        },
+        {
             'name': '海曙区',
             'value': '330203',
             'parent': '330200'
@@ -4860,6 +5125,16 @@ exports.chinaAddres = {
             'name': '奉化市',
             'value': '330283',
             'parent': '330200'
+        },
+        {
+            'name': '温州市',
+            'value': '330300',
+            'parent': '330200'
+        },
+        {
+            'name': '市辖区',
+            'value': '330301',
+            'parent': '330300'
         },
         {
             'name': '鹿城区',
@@ -4917,6 +5192,16 @@ exports.chinaAddres = {
             'parent': '330300'
         },
         {
+            'name': '嘉兴市',
+            'value': '330400',
+            'parent': '330300'
+        },
+        {
+            'name': '市辖区',
+            'value': '330401',
+            'parent': '330400'
+        },
+        {
             'name': '南湖区',
             'value': '330402',
             'parent': '330400'
@@ -4952,6 +5237,16 @@ exports.chinaAddres = {
             'parent': '330400'
         },
         {
+            'name': '湖州市',
+            'value': '330500',
+            'parent': '330400'
+        },
+        {
+            'name': '市辖区',
+            'value': '330501',
+            'parent': '330500'
+        },
+        {
             'name': '吴兴区',
             'value': '330502',
             'parent': '330500'
@@ -4975,6 +5270,16 @@ exports.chinaAddres = {
             'name': '安吉县',
             'value': '330523',
             'parent': '330500'
+        },
+        {
+            'name': '绍兴市',
+            'value': '330600',
+            'parent': '330500'
+        },
+        {
+            'name': '市辖区',
+            'value': '330601',
+            'parent': '330600'
         },
         {
             'name': '越城区',
@@ -5005,6 +5310,16 @@ exports.chinaAddres = {
             'name': '嵊州市',
             'value': '330683',
             'parent': '330600'
+        },
+        {
+            'name': '金华市',
+            'value': '330700',
+            'parent': '330600'
+        },
+        {
+            'name': '市辖区',
+            'value': '330701',
+            'parent': '330700'
         },
         {
             'name': '婺城区',
@@ -5052,6 +5367,16 @@ exports.chinaAddres = {
             'parent': '330700'
         },
         {
+            'name': '衢州市',
+            'value': '330800',
+            'parent': '330700'
+        },
+        {
+            'name': '市辖区',
+            'value': '330801',
+            'parent': '330800'
+        },
+        {
             'name': '柯城区',
             'value': '330802',
             'parent': '330800'
@@ -5082,6 +5407,16 @@ exports.chinaAddres = {
             'parent': '330800'
         },
         {
+            'name': '舟山市',
+            'value': '330900',
+            'parent': '330800'
+        },
+        {
+            'name': '市辖区',
+            'value': '330901',
+            'parent': '330900'
+        },
+        {
             'name': '定海区',
             'value': '330902',
             'parent': '330900'
@@ -5100,6 +5435,16 @@ exports.chinaAddres = {
             'name': '嵊泗县',
             'value': '330922',
             'parent': '330900'
+        },
+        {
+            'name': '台州市',
+            'value': '331000',
+            'parent': '330900'
+        },
+        {
+            'name': '市辖区',
+            'value': '331001',
+            'parent': '331000'
         },
         {
             'name': '椒江区',
@@ -5147,6 +5492,16 @@ exports.chinaAddres = {
             'parent': '331000'
         },
         {
+            'name': '丽水市',
+            'value': '331100',
+            'parent': '331000'
+        },
+        {
+            'name': '市辖区',
+            'value': '331101',
+            'parent': '331100'
+        },
+        {
             'name': '莲都区',
             'value': '331102',
             'parent': '331100'
@@ -5192,84 +5547,18 @@ exports.chinaAddres = {
             'parent': '331100'
         },
         {
+            'name': '安徽省',
+            'value': '340000'
+        },
+        {
             'name': '合肥市',
             'value': '340100',
             'parent': '340000'
         },
         {
-            'name': '芜湖市',
-            'value': '340200',
-            'parent': '340000'
-        },
-        {
-            'name': '蚌埠市',
-            'value': '340300',
-            'parent': '340000'
-        },
-        {
-            'name': '淮南市',
-            'value': '340400',
-            'parent': '340000'
-        },
-        {
-            'name': '马鞍山市',
-            'value': '340500',
-            'parent': '340000'
-        },
-        {
-            'name': '淮北市',
-            'value': '340600',
-            'parent': '340000'
-        },
-        {
-            'name': '铜陵市',
-            'value': '340700',
-            'parent': '340000'
-        },
-        {
-            'name': '安庆市',
-            'value': '340800',
-            'parent': '340000'
-        },
-        {
-            'name': '黄山市',
-            'value': '341000',
-            'parent': '340000'
-        },
-        {
-            'name': '滁州市',
-            'value': '341100',
-            'parent': '340000'
-        },
-        {
-            'name': '阜阳市',
-            'value': '341200',
-            'parent': '340000'
-        },
-        {
-            'name': '宿州市',
-            'value': '341300',
-            'parent': '340000'
-        },
-        {
-            'name': '六安市',
-            'value': '341500',
-            'parent': '340000'
-        },
-        {
-            'name': '亳州市',
-            'value': '341600',
-            'parent': '340000'
-        },
-        {
-            'name': '池州市',
-            'value': '341700',
-            'parent': '340000'
-        },
-        {
-            'name': '宣城市',
-            'value': '341800',
-            'parent': '340000'
+            'name': '市辖区',
+            'value': '340101',
+            'parent': '340100'
         },
         {
             'name': '瑶海区',
@@ -5317,6 +5606,16 @@ exports.chinaAddres = {
             'parent': '340100'
         },
         {
+            'name': '芜湖市',
+            'value': '340200',
+            'parent': '340100'
+        },
+        {
+            'name': '市辖区',
+            'value': '340201',
+            'parent': '340200'
+        },
+        {
             'name': '镜湖区',
             'value': '340202',
             'parent': '340200'
@@ -5357,6 +5656,16 @@ exports.chinaAddres = {
             'parent': '340200'
         },
         {
+            'name': '蚌埠市',
+            'value': '340300',
+            'parent': '340200'
+        },
+        {
+            'name': '市辖区',
+            'value': '340301',
+            'parent': '340300'
+        },
+        {
             'name': '龙子湖区',
             'value': '340302',
             'parent': '340300'
@@ -5392,6 +5701,16 @@ exports.chinaAddres = {
             'parent': '340300'
         },
         {
+            'name': '淮南市',
+            'value': '340400',
+            'parent': '340300'
+        },
+        {
+            'name': '市辖区',
+            'value': '340401',
+            'parent': '340400'
+        },
+        {
             'name': '大通区',
             'value': '340402',
             'parent': '340400'
@@ -5420,6 +5739,21 @@ exports.chinaAddres = {
             'name': '凤台县',
             'value': '340421',
             'parent': '340400'
+        },
+        {
+            'name': '寿县',
+            'value': '340422',
+            'parent': '340400'
+        },
+        {
+            'name': '马鞍山市',
+            'value': '340500',
+            'parent': '340400'
+        },
+        {
+            'name': '市辖区',
+            'value': '340501',
+            'parent': '340500'
         },
         {
             'name': '花山区',
@@ -5452,6 +5786,16 @@ exports.chinaAddres = {
             'parent': '340500'
         },
         {
+            'name': '淮北市',
+            'value': '340600',
+            'parent': '340500'
+        },
+        {
+            'name': '市辖区',
+            'value': '340601',
+            'parent': '340600'
+        },
+        {
             'name': '杜集区',
             'value': '340602',
             'parent': '340600'
@@ -5472,13 +5816,23 @@ exports.chinaAddres = {
             'parent': '340600'
         },
         {
-            'name': '铜官山区',
-            'value': '340702',
+            'name': '铜陵市',
+            'value': '340700',
+            'parent': '340600'
+        },
+        {
+            'name': '市辖区',
+            'value': '340701',
             'parent': '340700'
         },
         {
-            'name': '狮子山区',
-            'value': '340703',
+            'name': '铜官区',
+            'value': '340705',
+            'parent': '340700'
+        },
+        {
+            'name': '义安区',
+            'value': '340706',
             'parent': '340700'
         },
         {
@@ -5487,9 +5841,19 @@ exports.chinaAddres = {
             'parent': '340700'
         },
         {
-            'name': '铜陵县',
-            'value': '340721',
+            'name': '枞阳县',
+            'value': '340722',
             'parent': '340700'
+        },
+        {
+            'name': '安庆市',
+            'value': '340800',
+            'parent': '340700'
+        },
+        {
+            'name': '市辖区',
+            'value': '340801',
+            'parent': '340800'
         },
         {
             'name': '迎江区',
@@ -5509,11 +5873,6 @@ exports.chinaAddres = {
         {
             'name': '怀宁县',
             'value': '340822',
-            'parent': '340800'
-        },
-        {
-            'name': '枞阳县',
-            'value': '340823',
             'parent': '340800'
         },
         {
@@ -5545,6 +5904,16 @@ exports.chinaAddres = {
             'name': '桐城市',
             'value': '340881',
             'parent': '340800'
+        },
+        {
+            'name': '黄山市',
+            'value': '341000',
+            'parent': '340800'
+        },
+        {
+            'name': '市辖区',
+            'value': '341001',
+            'parent': '341000'
         },
         {
             'name': '屯溪区',
@@ -5580,6 +5949,16 @@ exports.chinaAddres = {
             'name': '祁门县',
             'value': '341024',
             'parent': '341000'
+        },
+        {
+            'name': '滁州市',
+            'value': '341100',
+            'parent': '341000'
+        },
+        {
+            'name': '市辖区',
+            'value': '341101',
+            'parent': '341100'
         },
         {
             'name': '琅琊区',
@@ -5622,6 +6001,16 @@ exports.chinaAddres = {
             'parent': '341100'
         },
         {
+            'name': '阜阳市',
+            'value': '341200',
+            'parent': '341100'
+        },
+        {
+            'name': '市辖区',
+            'value': '341201',
+            'parent': '341200'
+        },
+        {
             'name': '颍州区',
             'value': '341202',
             'parent': '341200'
@@ -5662,6 +6051,16 @@ exports.chinaAddres = {
             'parent': '341200'
         },
         {
+            'name': '宿州市',
+            'value': '341300',
+            'parent': '341200'
+        },
+        {
+            'name': '市辖区',
+            'value': '341301',
+            'parent': '341300'
+        },
+        {
             'name': '埇桥区',
             'value': '341302',
             'parent': '341300'
@@ -5687,6 +6086,16 @@ exports.chinaAddres = {
             'parent': '341300'
         },
         {
+            'name': '六安市',
+            'value': '341500',
+            'parent': '341300'
+        },
+        {
+            'name': '市辖区',
+            'value': '341501',
+            'parent': '341500'
+        },
+        {
             'name': '金安区',
             'value': '341502',
             'parent': '341500'
@@ -5697,8 +6106,8 @@ exports.chinaAddres = {
             'parent': '341500'
         },
         {
-            'name': '寿县',
-            'value': '341521',
+            'name': '叶集区',
+            'value': '341504',
             'parent': '341500'
         },
         {
@@ -5722,6 +6131,16 @@ exports.chinaAddres = {
             'parent': '341500'
         },
         {
+            'name': '亳州市',
+            'value': '341600',
+            'parent': '341500'
+        },
+        {
+            'name': '市辖区',
+            'value': '341601',
+            'parent': '341600'
+        },
+        {
             'name': '谯城区',
             'value': '341602',
             'parent': '341600'
@@ -5742,6 +6161,16 @@ exports.chinaAddres = {
             'parent': '341600'
         },
         {
+            'name': '池州市',
+            'value': '341700',
+            'parent': '341600'
+        },
+        {
+            'name': '市辖区',
+            'value': '341701',
+            'parent': '341700'
+        },
+        {
             'name': '贵池区',
             'value': '341702',
             'parent': '341700'
@@ -5760,6 +6189,16 @@ exports.chinaAddres = {
             'name': '青阳县',
             'value': '341723',
             'parent': '341700'
+        },
+        {
+            'name': '宣城市',
+            'value': '341800',
+            'parent': '341700'
+        },
+        {
+            'name': '市辖区',
+            'value': '341801',
+            'parent': '341800'
         },
         {
             'name': '宣州区',
@@ -5797,49 +6236,18 @@ exports.chinaAddres = {
             'parent': '341800'
         },
         {
+            'name': '福建省',
+            'value': '350000'
+        },
+        {
             'name': '福州市',
             'value': '350100',
             'parent': '350000'
         },
         {
-            'name': '厦门市',
-            'value': '350200',
-            'parent': '350000'
-        },
-        {
-            'name': '莆田市',
-            'value': '350300',
-            'parent': '350000'
-        },
-        {
-            'name': '三明市',
-            'value': '350400',
-            'parent': '350000'
-        },
-        {
-            'name': '泉州市',
-            'value': '350500',
-            'parent': '350000'
-        },
-        {
-            'name': '漳州市',
-            'value': '350600',
-            'parent': '350000'
-        },
-        {
-            'name': '南平市',
-            'value': '350700',
-            'parent': '350000'
-        },
-        {
-            'name': '龙岩市',
-            'value': '350800',
-            'parent': '350000'
-        },
-        {
-            'name': '宁德市',
-            'value': '350900',
-            'parent': '350000'
+            'name': '市辖区',
+            'value': '350101',
+            'parent': '350100'
         },
         {
             'name': '鼓楼区',
@@ -5907,6 +6315,16 @@ exports.chinaAddres = {
             'parent': '350100'
         },
         {
+            'name': '厦门市',
+            'value': '350200',
+            'parent': '350100'
+        },
+        {
+            'name': '市辖区',
+            'value': '350201',
+            'parent': '350200'
+        },
+        {
             'name': '思明区',
             'value': '350203',
             'parent': '350200'
@@ -5937,6 +6355,16 @@ exports.chinaAddres = {
             'parent': '350200'
         },
         {
+            'name': '莆田市',
+            'value': '350300',
+            'parent': '350200'
+        },
+        {
+            'name': '市辖区',
+            'value': '350301',
+            'parent': '350300'
+        },
+        {
             'name': '城厢区',
             'value': '350302',
             'parent': '350300'
@@ -5960,6 +6388,16 @@ exports.chinaAddres = {
             'name': '仙游县',
             'value': '350322',
             'parent': '350300'
+        },
+        {
+            'name': '三明市',
+            'value': '350400',
+            'parent': '350300'
+        },
+        {
+            'name': '市辖区',
+            'value': '350401',
+            'parent': '350400'
         },
         {
             'name': '梅列区',
@@ -6022,6 +6460,16 @@ exports.chinaAddres = {
             'parent': '350400'
         },
         {
+            'name': '泉州市',
+            'value': '350500',
+            'parent': '350400'
+        },
+        {
+            'name': '市辖区',
+            'value': '350501',
+            'parent': '350500'
+        },
+        {
             'name': '鲤城区',
             'value': '350502',
             'parent': '350500'
@@ -6082,6 +6530,16 @@ exports.chinaAddres = {
             'parent': '350500'
         },
         {
+            'name': '漳州市',
+            'value': '350600',
+            'parent': '350500'
+        },
+        {
+            'name': '市辖区',
+            'value': '350601',
+            'parent': '350600'
+        },
+        {
             'name': '芗城区',
             'value': '350602',
             'parent': '350600'
@@ -6137,6 +6595,16 @@ exports.chinaAddres = {
             'parent': '350600'
         },
         {
+            'name': '南平市',
+            'value': '350700',
+            'parent': '350600'
+        },
+        {
+            'name': '市辖区',
+            'value': '350701',
+            'parent': '350700'
+        },
+        {
             'name': '延平区',
             'value': '350702',
             'parent': '350700'
@@ -6187,6 +6655,16 @@ exports.chinaAddres = {
             'parent': '350700'
         },
         {
+            'name': '龙岩市',
+            'value': '350800',
+            'parent': '350700'
+        },
+        {
+            'name': '市辖区',
+            'value': '350801',
+            'parent': '350800'
+        },
+        {
             'name': '新罗区',
             'value': '350802',
             'parent': '350800'
@@ -6220,6 +6698,16 @@ exports.chinaAddres = {
             'name': '漳平市',
             'value': '350881',
             'parent': '350800'
+        },
+        {
+            'name': '宁德市',
+            'value': '350900',
+            'parent': '350800'
+        },
+        {
+            'name': '市辖区',
+            'value': '350901',
+            'parent': '350900'
         },
         {
             'name': '蕉城区',
@@ -6267,59 +6755,18 @@ exports.chinaAddres = {
             'parent': '350900'
         },
         {
+            'name': '江西省',
+            'value': '360000'
+        },
+        {
             'name': '南昌市',
             'value': '360100',
             'parent': '360000'
         },
         {
-            'name': '景德镇市',
-            'value': '360200',
-            'parent': '360000'
-        },
-        {
-            'name': '萍乡市',
-            'value': '360300',
-            'parent': '360000'
-        },
-        {
-            'name': '九江市',
-            'value': '360400',
-            'parent': '360000'
-        },
-        {
-            'name': '新余市',
-            'value': '360500',
-            'parent': '360000'
-        },
-        {
-            'name': '鹰潭市',
-            'value': '360600',
-            'parent': '360000'
-        },
-        {
-            'name': '赣州市',
-            'value': '360700',
-            'parent': '360000'
-        },
-        {
-            'name': '吉安市',
-            'value': '360800',
-            'parent': '360000'
-        },
-        {
-            'name': '宜春市',
-            'value': '360900',
-            'parent': '360000'
-        },
-        {
-            'name': '抚州市',
-            'value': '361000',
-            'parent': '360000'
-        },
-        {
-            'name': '上饶市',
-            'value': '361100',
-            'parent': '360000'
+            'name': '市辖区',
+            'value': '360101',
+            'parent': '360100'
         },
         {
             'name': '东湖区',
@@ -6367,6 +6814,16 @@ exports.chinaAddres = {
             'parent': '360100'
         },
         {
+            'name': '景德镇市',
+            'value': '360200',
+            'parent': '360100'
+        },
+        {
+            'name': '市辖区',
+            'value': '360201',
+            'parent': '360200'
+        },
+        {
             'name': '昌江区',
             'value': '360202',
             'parent': '360200'
@@ -6385,6 +6842,16 @@ exports.chinaAddres = {
             'name': '乐平市',
             'value': '360281',
             'parent': '360200'
+        },
+        {
+            'name': '萍乡市',
+            'value': '360300',
+            'parent': '360200'
+        },
+        {
+            'name': '市辖区',
+            'value': '360301',
+            'parent': '360300'
         },
         {
             'name': '安源区',
@@ -6412,7 +6879,17 @@ exports.chinaAddres = {
             'parent': '360300'
         },
         {
-            'name': '庐山区',
+            'name': '九江市',
+            'value': '360400',
+            'parent': '360300'
+        },
+        {
+            'name': '市辖区',
+            'value': '360401',
+            'parent': '360400'
+        },
+        {
+            'name': '濂溪区',
             'value': '360402',
             'parent': '360400'
         },
@@ -6447,11 +6924,6 @@ exports.chinaAddres = {
             'parent': '360400'
         },
         {
-            'name': '星子县',
-            'value': '360427',
-            'parent': '360400'
-        },
-        {
             'name': '都昌县',
             'value': '360428',
             'parent': '360400'
@@ -6477,6 +6949,21 @@ exports.chinaAddres = {
             'parent': '360400'
         },
         {
+            'name': '庐山市',
+            'value': '360483',
+            'parent': '360400'
+        },
+        {
+            'name': '新余市',
+            'value': '360500',
+            'parent': '360400'
+        },
+        {
+            'name': '市辖区',
+            'value': '360501',
+            'parent': '360500'
+        },
+        {
             'name': '渝水区',
             'value': '360502',
             'parent': '360500'
@@ -6485,6 +6972,16 @@ exports.chinaAddres = {
             'name': '分宜县',
             'value': '360521',
             'parent': '360500'
+        },
+        {
+            'name': '鹰潭市',
+            'value': '360600',
+            'parent': '360500'
+        },
+        {
+            'name': '市辖区',
+            'value': '360601',
+            'parent': '360600'
         },
         {
             'name': '月湖区',
@@ -6500,6 +6997,16 @@ exports.chinaAddres = {
             'name': '贵溪市',
             'value': '360681',
             'parent': '360600'
+        },
+        {
+            'name': '赣州市',
+            'value': '360700',
+            'parent': '360600'
+        },
+        {
+            'name': '市辖区',
+            'value': '360701',
+            'parent': '360700'
         },
         {
             'name': '章贡区',
@@ -6592,6 +7099,16 @@ exports.chinaAddres = {
             'parent': '360700'
         },
         {
+            'name': '吉安市',
+            'value': '360800',
+            'parent': '360700'
+        },
+        {
+            'name': '市辖区',
+            'value': '360801',
+            'parent': '360800'
+        },
+        {
             'name': '吉州区',
             'value': '360802',
             'parent': '360800'
@@ -6657,6 +7174,16 @@ exports.chinaAddres = {
             'parent': '360800'
         },
         {
+            'name': '宜春市',
+            'value': '360900',
+            'parent': '360800'
+        },
+        {
+            'name': '市辖区',
+            'value': '360901',
+            'parent': '360900'
+        },
+        {
             'name': '袁州区',
             'value': '360902',
             'parent': '360900'
@@ -6705,6 +7232,16 @@ exports.chinaAddres = {
             'name': '高安市',
             'value': '360983',
             'parent': '360900'
+        },
+        {
+            'name': '抚州市',
+            'value': '361000',
+            'parent': '360900'
+        },
+        {
+            'name': '市辖区',
+            'value': '361001',
+            'parent': '361000'
         },
         {
             'name': '临川区',
@@ -6760,6 +7297,16 @@ exports.chinaAddres = {
             'name': '广昌县',
             'value': '361030',
             'parent': '361000'
+        },
+        {
+            'name': '上饶市',
+            'value': '361100',
+            'parent': '361000'
+        },
+        {
+            'name': '市辖区',
+            'value': '361101',
+            'parent': '361100'
         },
         {
             'name': '信州区',
@@ -6822,89 +7369,18 @@ exports.chinaAddres = {
             'parent': '361100'
         },
         {
+            'name': '山东省',
+            'value': '370000'
+        },
+        {
             'name': '济南市',
             'value': '370100',
             'parent': '370000'
         },
         {
-            'name': '青岛市',
-            'value': '370200',
-            'parent': '370000'
-        },
-        {
-            'name': '淄博市',
-            'value': '370300',
-            'parent': '370000'
-        },
-        {
-            'name': '枣庄市',
-            'value': '370400',
-            'parent': '370000'
-        },
-        {
-            'name': '东营市',
-            'value': '370500',
-            'parent': '370000'
-        },
-        {
-            'name': '烟台市',
-            'value': '370600',
-            'parent': '370000'
-        },
-        {
-            'name': '潍坊市',
-            'value': '370700',
-            'parent': '370000'
-        },
-        {
-            'name': '济宁市',
-            'value': '370800',
-            'parent': '370000'
-        },
-        {
-            'name': '泰安市',
-            'value': '370900',
-            'parent': '370000'
-        },
-        {
-            'name': '威海市',
-            'value': '371000',
-            'parent': '370000'
-        },
-        {
-            'name': '日照市',
-            'value': '371100',
-            'parent': '370000'
-        },
-        {
-            'name': '莱芜市',
-            'value': '371200',
-            'parent': '370000'
-        },
-        {
-            'name': '临沂市',
-            'value': '371300',
-            'parent': '370000'
-        },
-        {
-            'name': '德州市',
-            'value': '371400',
-            'parent': '370000'
-        },
-        {
-            'name': '聊城市',
-            'value': '371500',
-            'parent': '370000'
-        },
-        {
-            'name': '滨州市',
-            'value': '371600',
-            'parent': '370000'
-        },
-        {
-            'name': '菏泽市',
-            'value': '371700',
-            'parent': '370000'
+            'name': '市辖区',
+            'value': '370101',
+            'parent': '370100'
         },
         {
             'name': '历下区',
@@ -6957,6 +7433,16 @@ exports.chinaAddres = {
             'parent': '370100'
         },
         {
+            'name': '青岛市',
+            'value': '370200',
+            'parent': '370100'
+        },
+        {
+            'name': '市辖区',
+            'value': '370201',
+            'parent': '370200'
+        },
+        {
             'name': '市南区',
             'value': '370202',
             'parent': '370200'
@@ -7007,6 +7493,16 @@ exports.chinaAddres = {
             'parent': '370200'
         },
         {
+            'name': '淄博市',
+            'value': '370300',
+            'parent': '370200'
+        },
+        {
+            'name': '市辖区',
+            'value': '370301',
+            'parent': '370300'
+        },
+        {
             'name': '淄川区',
             'value': '370302',
             'parent': '370300'
@@ -7047,6 +7543,16 @@ exports.chinaAddres = {
             'parent': '370300'
         },
         {
+            'name': '枣庄市',
+            'value': '370400',
+            'parent': '370300'
+        },
+        {
+            'name': '市辖区',
+            'value': '370401',
+            'parent': '370400'
+        },
+        {
             'name': '市中区',
             'value': '370402',
             'parent': '370400'
@@ -7077,6 +7583,16 @@ exports.chinaAddres = {
             'parent': '370400'
         },
         {
+            'name': '东营市',
+            'value': '370500',
+            'parent': '370400'
+        },
+        {
+            'name': '市辖区',
+            'value': '370501',
+            'parent': '370500'
+        },
+        {
             'name': '东营区',
             'value': '370502',
             'parent': '370500'
@@ -7087,8 +7603,8 @@ exports.chinaAddres = {
             'parent': '370500'
         },
         {
-            'name': '垦利县',
-            'value': '370521',
+            'name': '垦利区',
+            'value': '370505',
             'parent': '370500'
         },
         {
@@ -7100,6 +7616,16 @@ exports.chinaAddres = {
             'name': '广饶县',
             'value': '370523',
             'parent': '370500'
+        },
+        {
+            'name': '烟台市',
+            'value': '370600',
+            'parent': '370500'
+        },
+        {
+            'name': '市辖区',
+            'value': '370601',
+            'parent': '370600'
         },
         {
             'name': '芝罘区',
@@ -7162,6 +7688,16 @@ exports.chinaAddres = {
             'parent': '370600'
         },
         {
+            'name': '潍坊市',
+            'value': '370700',
+            'parent': '370600'
+        },
+        {
+            'name': '市辖区',
+            'value': '370701',
+            'parent': '370700'
+        },
+        {
             'name': '潍城区',
             'value': '370702',
             'parent': '370700'
@@ -7222,6 +7758,16 @@ exports.chinaAddres = {
             'parent': '370700'
         },
         {
+            'name': '济宁市',
+            'value': '370800',
+            'parent': '370700'
+        },
+        {
+            'name': '市辖区',
+            'value': '370801',
+            'parent': '370800'
+        },
+        {
             'name': '任城区',
             'value': '370811',
             'parent': '370800'
@@ -7277,6 +7823,16 @@ exports.chinaAddres = {
             'parent': '370800'
         },
         {
+            'name': '泰安市',
+            'value': '370900',
+            'parent': '370800'
+        },
+        {
+            'name': '市辖区',
+            'value': '370901',
+            'parent': '370900'
+        },
+        {
             'name': '泰山区',
             'value': '370902',
             'parent': '370900'
@@ -7307,6 +7863,16 @@ exports.chinaAddres = {
             'parent': '370900'
         },
         {
+            'name': '威海市',
+            'value': '371000',
+            'parent': '370900'
+        },
+        {
+            'name': '市辖区',
+            'value': '371001',
+            'parent': '371000'
+        },
+        {
             'name': '环翠区',
             'value': '371002',
             'parent': '371000'
@@ -7325,6 +7891,16 @@ exports.chinaAddres = {
             'name': '乳山市',
             'value': '371083',
             'parent': '371000'
+        },
+        {
+            'name': '日照市',
+            'value': '371100',
+            'parent': '371000'
+        },
+        {
+            'name': '市辖区',
+            'value': '371101',
+            'parent': '371100'
         },
         {
             'name': '东港区',
@@ -7347,6 +7923,16 @@ exports.chinaAddres = {
             'parent': '371100'
         },
         {
+            'name': '莱芜市',
+            'value': '371200',
+            'parent': '371100'
+        },
+        {
+            'name': '市辖区',
+            'value': '371201',
+            'parent': '371200'
+        },
+        {
             'name': '莱城区',
             'value': '371202',
             'parent': '371200'
@@ -7355,6 +7941,16 @@ exports.chinaAddres = {
             'name': '钢城区',
             'value': '371203',
             'parent': '371200'
+        },
+        {
+            'name': '临沂市',
+            'value': '371300',
+            'parent': '371200'
+        },
+        {
+            'name': '市辖区',
+            'value': '371301',
+            'parent': '371300'
         },
         {
             'name': '兰山区',
@@ -7417,6 +8013,16 @@ exports.chinaAddres = {
             'parent': '371300'
         },
         {
+            'name': '德州市',
+            'value': '371400',
+            'parent': '371300'
+        },
+        {
+            'name': '市辖区',
+            'value': '371401',
+            'parent': '371400'
+        },
+        {
             'name': '德城区',
             'value': '371402',
             'parent': '371400'
@@ -7472,6 +8078,16 @@ exports.chinaAddres = {
             'parent': '371400'
         },
         {
+            'name': '聊城市',
+            'value': '371500',
+            'parent': '371400'
+        },
+        {
+            'name': '市辖区',
+            'value': '371501',
+            'parent': '371500'
+        },
+        {
             'name': '东昌府区',
             'value': '371502',
             'parent': '371500'
@@ -7512,6 +8128,16 @@ exports.chinaAddres = {
             'parent': '371500'
         },
         {
+            'name': '滨州市',
+            'value': '371600',
+            'parent': '371500'
+        },
+        {
+            'name': '市辖区',
+            'value': '371601',
+            'parent': '371600'
+        },
+        {
             'name': '滨城区',
             'value': '371602',
             'parent': '371600'
@@ -7547,8 +8173,23 @@ exports.chinaAddres = {
             'parent': '371600'
         },
         {
+            'name': '菏泽市',
+            'value': '371700',
+            'parent': '371600'
+        },
+        {
+            'name': '市辖区',
+            'value': '371701',
+            'parent': '371700'
+        },
+        {
             'name': '牡丹区',
             'value': '371702',
+            'parent': '371700'
+        },
+        {
+            'name': '定陶区',
+            'value': '371703',
             'parent': '371700'
         },
         {
@@ -7582,14 +8223,13 @@ exports.chinaAddres = {
             'parent': '371700'
         },
         {
-            'name': '定陶县',
-            'value': '371727',
-            'parent': '371700'
-        },
-        {
             'name': '东明县',
             'value': '371728',
             'parent': '371700'
+        },
+        {
+            'name': '河南省',
+            'value': '410000'
         },
         {
             'name': '郑州市',
@@ -7597,89 +8237,9 @@ exports.chinaAddres = {
             'parent': '410000'
         },
         {
-            'name': '开封市',
-            'value': '410200',
-            'parent': '410000'
-        },
-        {
-            'name': '洛阳市',
-            'value': '410300',
-            'parent': '410000'
-        },
-        {
-            'name': '平顶山市',
-            'value': '410400',
-            'parent': '410000'
-        },
-        {
-            'name': '安阳市',
-            'value': '410500',
-            'parent': '410000'
-        },
-        {
-            'name': '鹤壁市',
-            'value': '410600',
-            'parent': '410000'
-        },
-        {
-            'name': '新乡市',
-            'value': '410700',
-            'parent': '410000'
-        },
-        {
-            'name': '焦作市',
-            'value': '410800',
-            'parent': '410000'
-        },
-        {
-            'name': '濮阳市',
-            'value': '410900',
-            'parent': '410000'
-        },
-        {
-            'name': '许昌市',
-            'value': '411000',
-            'parent': '410000'
-        },
-        {
-            'name': '漯河市',
-            'value': '411100',
-            'parent': '410000'
-        },
-        {
-            'name': '三门峡市',
-            'value': '411200',
-            'parent': '410000'
-        },
-        {
-            'name': '南阳市',
-            'value': '411300',
-            'parent': '410000'
-        },
-        {
-            'name': '商丘市',
-            'value': '411400',
-            'parent': '410000'
-        },
-        {
-            'name': '信阳市',
-            'value': '411500',
-            'parent': '410000'
-        },
-        {
-            'name': '周口市',
-            'value': '411600',
-            'parent': '410000'
-        },
-        {
-            'name': '驻马店市',
-            'value': '411700',
-            'parent': '410000'
-        },
-        {
-            'name': '济源市',
-            'value': '419001',
-            'parent': '410000'
+            'name': '市辖区',
+            'value': '410101',
+            'parent': '410100'
         },
         {
             'name': '中原区',
@@ -7742,6 +8302,16 @@ exports.chinaAddres = {
             'parent': '410100'
         },
         {
+            'name': '开封市',
+            'value': '410200',
+            'parent': '410100'
+        },
+        {
+            'name': '市辖区',
+            'value': '410201',
+            'parent': '410200'
+        },
+        {
             'name': '龙亭区',
             'value': '410202',
             'parent': '410200'
@@ -7790,6 +8360,16 @@ exports.chinaAddres = {
             'name': '兰考县',
             'value': '410225',
             'parent': '410200'
+        },
+        {
+            'name': '洛阳市',
+            'value': '410300',
+            'parent': '410200'
+        },
+        {
+            'name': '市辖区',
+            'value': '410301',
+            'parent': '410300'
         },
         {
             'name': '老城区',
@@ -7867,6 +8447,16 @@ exports.chinaAddres = {
             'parent': '410300'
         },
         {
+            'name': '平顶山市',
+            'value': '410400',
+            'parent': '410300'
+        },
+        {
+            'name': '市辖区',
+            'value': '410401',
+            'parent': '410400'
+        },
+        {
             'name': '新华区',
             'value': '410402',
             'parent': '410400'
@@ -7917,6 +8507,16 @@ exports.chinaAddres = {
             'parent': '410400'
         },
         {
+            'name': '安阳市',
+            'value': '410500',
+            'parent': '410400'
+        },
+        {
+            'name': '市辖区',
+            'value': '410501',
+            'parent': '410500'
+        },
+        {
             'name': '文峰区',
             'value': '410502',
             'parent': '410500'
@@ -7962,6 +8562,16 @@ exports.chinaAddres = {
             'parent': '410500'
         },
         {
+            'name': '鹤壁市',
+            'value': '410600',
+            'parent': '410500'
+        },
+        {
+            'name': '市辖区',
+            'value': '410601',
+            'parent': '410600'
+        },
+        {
             'name': '鹤山区',
             'value': '410602',
             'parent': '410600'
@@ -7985,6 +8595,16 @@ exports.chinaAddres = {
             'name': '淇县',
             'value': '410622',
             'parent': '410600'
+        },
+        {
+            'name': '新乡市',
+            'value': '410700',
+            'parent': '410600'
+        },
+        {
+            'name': '市辖区',
+            'value': '410701',
+            'parent': '410700'
         },
         {
             'name': '红旗区',
@@ -8047,6 +8667,16 @@ exports.chinaAddres = {
             'parent': '410700'
         },
         {
+            'name': '焦作市',
+            'value': '410800',
+            'parent': '410700'
+        },
+        {
+            'name': '市辖区',
+            'value': '410801',
+            'parent': '410800'
+        },
+        {
             'name': '解放区',
             'value': '410802',
             'parent': '410800'
@@ -8097,6 +8727,16 @@ exports.chinaAddres = {
             'parent': '410800'
         },
         {
+            'name': '濮阳市',
+            'value': '410900',
+            'parent': '410800'
+        },
+        {
+            'name': '市辖区',
+            'value': '410901',
+            'parent': '410900'
+        },
+        {
             'name': '华龙区',
             'value': '410902',
             'parent': '410900'
@@ -8125,6 +8765,16 @@ exports.chinaAddres = {
             'name': '濮阳县',
             'value': '410928',
             'parent': '410900'
+        },
+        {
+            'name': '许昌市',
+            'value': '411000',
+            'parent': '410900'
+        },
+        {
+            'name': '市辖区',
+            'value': '411001',
+            'parent': '411000'
         },
         {
             'name': '魏都区',
@@ -8157,6 +8807,16 @@ exports.chinaAddres = {
             'parent': '411000'
         },
         {
+            'name': '漯河市',
+            'value': '411100',
+            'parent': '411000'
+        },
+        {
+            'name': '市辖区',
+            'value': '411101',
+            'parent': '411100'
+        },
+        {
             'name': '源汇区',
             'value': '411102',
             'parent': '411100'
@@ -8182,18 +8842,28 @@ exports.chinaAddres = {
             'parent': '411100'
         },
         {
+            'name': '三门峡市',
+            'value': '411200',
+            'parent': '411100'
+        },
+        {
+            'name': '市辖区',
+            'value': '411201',
+            'parent': '411200'
+        },
+        {
             'name': '湖滨区',
             'value': '411202',
             'parent': '411200'
         },
         {
-            'name': '渑池县',
-            'value': '411221',
+            'name': '陕州区',
+            'value': '411203',
             'parent': '411200'
         },
         {
-            'name': '陕县',
-            'value': '411222',
+            'name': '渑池县',
+            'value': '411221',
             'parent': '411200'
         },
         {
@@ -8210,6 +8880,16 @@ exports.chinaAddres = {
             'name': '灵宝市',
             'value': '411282',
             'parent': '411200'
+        },
+        {
+            'name': '南阳市',
+            'value': '411300',
+            'parent': '411200'
+        },
+        {
+            'name': '市辖区',
+            'value': '411301',
+            'parent': '411300'
         },
         {
             'name': '宛城区',
@@ -8277,6 +8957,16 @@ exports.chinaAddres = {
             'parent': '411300'
         },
         {
+            'name': '商丘市',
+            'value': '411400',
+            'parent': '411300'
+        },
+        {
+            'name': '市辖区',
+            'value': '411401',
+            'parent': '411400'
+        },
+        {
             'name': '梁园区',
             'value': '411402',
             'parent': '411400'
@@ -8320,6 +9010,16 @@ exports.chinaAddres = {
             'name': '永城市',
             'value': '411481',
             'parent': '411400'
+        },
+        {
+            'name': '信阳市',
+            'value': '411500',
+            'parent': '411400'
+        },
+        {
+            'name': '市辖区',
+            'value': '411501',
+            'parent': '411500'
         },
         {
             'name': '浉河区',
@@ -8372,6 +9072,16 @@ exports.chinaAddres = {
             'parent': '411500'
         },
         {
+            'name': '周口市',
+            'value': '411600',
+            'parent': '411500'
+        },
+        {
+            'name': '市辖区',
+            'value': '411601',
+            'parent': '411600'
+        },
+        {
             'name': '川汇区',
             'value': '411602',
             'parent': '411600'
@@ -8420,6 +9130,16 @@ exports.chinaAddres = {
             'name': '项城市',
             'value': '411681',
             'parent': '411600'
+        },
+        {
+            'name': '驻马店市',
+            'value': '411700',
+            'parent': '411600'
+        },
+        {
+            'name': '市辖区',
+            'value': '411701',
+            'parent': '411700'
         },
         {
             'name': '驿城区',
@@ -8472,89 +9192,28 @@ exports.chinaAddres = {
             'parent': '411700'
         },
         {
+            'name': '省直辖县级行政区划',
+            'value': '419000',
+            'parent': '411700'
+        },
+        {
+            'name': '济源市',
+            'value': '419001',
+            'parent': '419000'
+        },
+        {
+            'name': '湖北省',
+            'value': '420000'
+        },
+        {
             'name': '武汉市',
             'value': '420100',
             'parent': '420000'
         },
         {
-            'name': '黄石市',
-            'value': '420200',
-            'parent': '420000'
-        },
-        {
-            'name': '十堰市',
-            'value': '420300',
-            'parent': '420000'
-        },
-        {
-            'name': '宜昌市',
-            'value': '420500',
-            'parent': '420000'
-        },
-        {
-            'name': '襄阳市',
-            'value': '420600',
-            'parent': '420000'
-        },
-        {
-            'name': '鄂州市',
-            'value': '420700',
-            'parent': '420000'
-        },
-        {
-            'name': '荆门市',
-            'value': '420800',
-            'parent': '420000'
-        },
-        {
-            'name': '孝感市',
-            'value': '420900',
-            'parent': '420000'
-        },
-        {
-            'name': '荆州市',
-            'value': '421000',
-            'parent': '420000'
-        },
-        {
-            'name': '黄冈市',
-            'value': '421100',
-            'parent': '420000'
-        },
-        {
-            'name': '咸宁市',
-            'value': '421200',
-            'parent': '420000'
-        },
-        {
-            'name': '随州市',
-            'value': '421300',
-            'parent': '420000'
-        },
-        {
-            'name': '恩施土家族苗族自治州',
-            'value': '422800',
-            'parent': '420000'
-        },
-        {
-            'name': '仙桃市',
-            'value': '429004',
-            'parent': '420000'
-        },
-        {
-            'name': '潜江市',
-            'value': '429005',
-            'parent': '420000'
-        },
-        {
-            'name': '天门市',
-            'value': '429006',
-            'parent': '420000'
-        },
-        {
-            'name': '神农架林区',
-            'value': '429021',
-            'parent': '420000'
+            'name': '市辖区',
+            'value': '420101',
+            'parent': '420100'
         },
         {
             'name': '江岸区',
@@ -8622,6 +9281,16 @@ exports.chinaAddres = {
             'parent': '420100'
         },
         {
+            'name': '黄石市',
+            'value': '420200',
+            'parent': '420100'
+        },
+        {
+            'name': '市辖区',
+            'value': '420201',
+            'parent': '420200'
+        },
+        {
             'name': '黄石港区',
             'value': '420202',
             'parent': '420200'
@@ -8650,6 +9319,16 @@ exports.chinaAddres = {
             'name': '大冶市',
             'value': '420281',
             'parent': '420200'
+        },
+        {
+            'name': '十堰市',
+            'value': '420300',
+            'parent': '420200'
+        },
+        {
+            'name': '市辖区',
+            'value': '420301',
+            'parent': '420300'
         },
         {
             'name': '茅箭区',
@@ -8690,6 +9369,16 @@ exports.chinaAddres = {
             'name': '丹江口市',
             'value': '420381',
             'parent': '420300'
+        },
+        {
+            'name': '宜昌市',
+            'value': '420500',
+            'parent': '420300'
+        },
+        {
+            'name': '市辖区',
+            'value': '420501',
+            'parent': '420500'
         },
         {
             'name': '西陵区',
@@ -8757,6 +9446,16 @@ exports.chinaAddres = {
             'parent': '420500'
         },
         {
+            'name': '襄阳市',
+            'value': '420600',
+            'parent': '420500'
+        },
+        {
+            'name': '市辖区',
+            'value': '420601',
+            'parent': '420600'
+        },
+        {
             'name': '襄城区',
             'value': '420602',
             'parent': '420600'
@@ -8802,6 +9501,16 @@ exports.chinaAddres = {
             'parent': '420600'
         },
         {
+            'name': '鄂州市',
+            'value': '420700',
+            'parent': '420600'
+        },
+        {
+            'name': '市辖区',
+            'value': '420701',
+            'parent': '420700'
+        },
+        {
             'name': '梁子湖区',
             'value': '420702',
             'parent': '420700'
@@ -8815,6 +9524,16 @@ exports.chinaAddres = {
             'name': '鄂城区',
             'value': '420704',
             'parent': '420700'
+        },
+        {
+            'name': '荆门市',
+            'value': '420800',
+            'parent': '420700'
+        },
+        {
+            'name': '市辖区',
+            'value': '420801',
+            'parent': '420800'
         },
         {
             'name': '东宝区',
@@ -8840,6 +9559,16 @@ exports.chinaAddres = {
             'name': '钟祥市',
             'value': '420881',
             'parent': '420800'
+        },
+        {
+            'name': '孝感市',
+            'value': '420900',
+            'parent': '420800'
+        },
+        {
+            'name': '市辖区',
+            'value': '420901',
+            'parent': '420900'
         },
         {
             'name': '孝南区',
@@ -8875,6 +9604,16 @@ exports.chinaAddres = {
             'name': '汉川市',
             'value': '420984',
             'parent': '420900'
+        },
+        {
+            'name': '荆州市',
+            'value': '421000',
+            'parent': '420900'
+        },
+        {
+            'name': '市辖区',
+            'value': '421001',
+            'parent': '421000'
         },
         {
             'name': '沙市区',
@@ -8915,6 +9654,16 @@ exports.chinaAddres = {
             'name': '松滋市',
             'value': '421087',
             'parent': '421000'
+        },
+        {
+            'name': '黄冈市',
+            'value': '421100',
+            'parent': '421000'
+        },
+        {
+            'name': '市辖区',
+            'value': '421101',
+            'parent': '421100'
         },
         {
             'name': '黄州区',
@@ -8967,6 +9716,16 @@ exports.chinaAddres = {
             'parent': '421100'
         },
         {
+            'name': '咸宁市',
+            'value': '421200',
+            'parent': '421100'
+        },
+        {
+            'name': '市辖区',
+            'value': '421201',
+            'parent': '421200'
+        },
+        {
             'name': '咸安区',
             'value': '421202',
             'parent': '421200'
@@ -8997,6 +9756,16 @@ exports.chinaAddres = {
             'parent': '421200'
         },
         {
+            'name': '随州市',
+            'value': '421300',
+            'parent': '421200'
+        },
+        {
+            'name': '市辖区',
+            'value': '421301',
+            'parent': '421300'
+        },
+        {
             'name': '曾都区',
             'value': '421303',
             'parent': '421300'
@@ -9009,6 +9778,11 @@ exports.chinaAddres = {
         {
             'name': '广水市',
             'value': '421381',
+            'parent': '421300'
+        },
+        {
+            'name': '恩施土家族苗族自治州',
+            'value': '422800',
             'parent': '421300'
         },
         {
@@ -9052,74 +9826,43 @@ exports.chinaAddres = {
             'parent': '422800'
         },
         {
+            'name': '省直辖县级行政区划',
+            'value': '429000',
+            'parent': '422800'
+        },
+        {
+            'name': '仙桃市',
+            'value': '429004',
+            'parent': '429000'
+        },
+        {
+            'name': '潜江市',
+            'value': '429005',
+            'parent': '429000'
+        },
+        {
+            'name': '天门市',
+            'value': '429006',
+            'parent': '429000'
+        },
+        {
+            'name': '神农架林区',
+            'value': '429021',
+            'parent': '429000'
+        },
+        {
+            'name': '湖南省',
+            'value': '430000'
+        },
+        {
             'name': '长沙市',
             'value': '430100',
             'parent': '430000'
         },
         {
-            'name': '株洲市',
-            'value': '430200',
-            'parent': '430000'
-        },
-        {
-            'name': '湘潭市',
-            'value': '430300',
-            'parent': '430000'
-        },
-        {
-            'name': '衡阳市',
-            'value': '430400',
-            'parent': '430000'
-        },
-        {
-            'name': '邵阳市',
-            'value': '430500',
-            'parent': '430000'
-        },
-        {
-            'name': '岳阳市',
-            'value': '430600',
-            'parent': '430000'
-        },
-        {
-            'name': '常德市',
-            'value': '430700',
-            'parent': '430000'
-        },
-        {
-            'name': '张家界市',
-            'value': '430800',
-            'parent': '430000'
-        },
-        {
-            'name': '益阳市',
-            'value': '430900',
-            'parent': '430000'
-        },
-        {
-            'name': '郴州市',
-            'value': '431000',
-            'parent': '430000'
-        },
-        {
-            'name': '永州市',
-            'value': '431100',
-            'parent': '430000'
-        },
-        {
-            'name': '怀化市',
-            'value': '431200',
-            'parent': '430000'
-        },
-        {
-            'name': '娄底市',
-            'value': '431300',
-            'parent': '430000'
-        },
-        {
-            'name': '湘西土家族苗族自治州',
-            'value': '433100',
-            'parent': '430000'
+            'name': '市辖区',
+            'value': '430101',
+            'parent': '430100'
         },
         {
             'name': '芙蓉区',
@@ -9167,6 +9910,16 @@ exports.chinaAddres = {
             'parent': '430100'
         },
         {
+            'name': '株洲市',
+            'value': '430200',
+            'parent': '430100'
+        },
+        {
+            'name': '市辖区',
+            'value': '430201',
+            'parent': '430200'
+        },
+        {
             'name': '荷塘区',
             'value': '430202',
             'parent': '430200'
@@ -9212,6 +9965,16 @@ exports.chinaAddres = {
             'parent': '430200'
         },
         {
+            'name': '湘潭市',
+            'value': '430300',
+            'parent': '430200'
+        },
+        {
+            'name': '市辖区',
+            'value': '430301',
+            'parent': '430300'
+        },
+        {
             'name': '雨湖区',
             'value': '430302',
             'parent': '430300'
@@ -9235,6 +9998,16 @@ exports.chinaAddres = {
             'name': '韶山市',
             'value': '430382',
             'parent': '430300'
+        },
+        {
+            'name': '衡阳市',
+            'value': '430400',
+            'parent': '430300'
+        },
+        {
+            'name': '市辖区',
+            'value': '430401',
+            'parent': '430400'
         },
         {
             'name': '珠晖区',
@@ -9297,6 +10070,16 @@ exports.chinaAddres = {
             'parent': '430400'
         },
         {
+            'name': '邵阳市',
+            'value': '430500',
+            'parent': '430400'
+        },
+        {
+            'name': '市辖区',
+            'value': '430501',
+            'parent': '430500'
+        },
+        {
             'name': '双清区',
             'value': '430502',
             'parent': '430500'
@@ -9357,6 +10140,16 @@ exports.chinaAddres = {
             'parent': '430500'
         },
         {
+            'name': '岳阳市',
+            'value': '430600',
+            'parent': '430500'
+        },
+        {
+            'name': '市辖区',
+            'value': '430601',
+            'parent': '430600'
+        },
+        {
             'name': '岳阳楼区',
             'value': '430602',
             'parent': '430600'
@@ -9400,6 +10193,16 @@ exports.chinaAddres = {
             'name': '临湘市',
             'value': '430682',
             'parent': '430600'
+        },
+        {
+            'name': '常德市',
+            'value': '430700',
+            'parent': '430600'
+        },
+        {
+            'name': '市辖区',
+            'value': '430701',
+            'parent': '430700'
         },
         {
             'name': '武陵区',
@@ -9447,6 +10250,16 @@ exports.chinaAddres = {
             'parent': '430700'
         },
         {
+            'name': '张家界市',
+            'value': '430800',
+            'parent': '430700'
+        },
+        {
+            'name': '市辖区',
+            'value': '430801',
+            'parent': '430800'
+        },
+        {
             'name': '永定区',
             'value': '430802',
             'parent': '430800'
@@ -9465,6 +10278,16 @@ exports.chinaAddres = {
             'name': '桑植县',
             'value': '430822',
             'parent': '430800'
+        },
+        {
+            'name': '益阳市',
+            'value': '430900',
+            'parent': '430800'
+        },
+        {
+            'name': '市辖区',
+            'value': '430901',
+            'parent': '430900'
         },
         {
             'name': '资阳区',
@@ -9495,6 +10318,16 @@ exports.chinaAddres = {
             'name': '沅江市',
             'value': '430981',
             'parent': '430900'
+        },
+        {
+            'name': '郴州市',
+            'value': '431000',
+            'parent': '430900'
+        },
+        {
+            'name': '市辖区',
+            'value': '431001',
+            'parent': '431000'
         },
         {
             'name': '北湖区',
@@ -9552,6 +10385,16 @@ exports.chinaAddres = {
             'parent': '431000'
         },
         {
+            'name': '永州市',
+            'value': '431100',
+            'parent': '431000'
+        },
+        {
+            'name': '市辖区',
+            'value': '431101',
+            'parent': '431100'
+        },
+        {
             'name': '零陵区',
             'value': '431102',
             'parent': '431100'
@@ -9605,6 +10448,16 @@ exports.chinaAddres = {
             'name': '江华瑶族自治县',
             'value': '431129',
             'parent': '431100'
+        },
+        {
+            'name': '怀化市',
+            'value': '431200',
+            'parent': '431100'
+        },
+        {
+            'name': '市辖区',
+            'value': '431201',
+            'parent': '431200'
         },
         {
             'name': '鹤城区',
@@ -9667,6 +10520,16 @@ exports.chinaAddres = {
             'parent': '431200'
         },
         {
+            'name': '娄底市',
+            'value': '431300',
+            'parent': '431200'
+        },
+        {
+            'name': '市辖区',
+            'value': '431301',
+            'parent': '431300'
+        },
+        {
             'name': '娄星区',
             'value': '431302',
             'parent': '431300'
@@ -9689,6 +10552,11 @@ exports.chinaAddres = {
         {
             'name': '涟源市',
             'value': '431382',
+            'parent': '431300'
+        },
+        {
+            'name': '湘西土家族苗族自治州',
+            'value': '433100',
             'parent': '431300'
         },
         {
@@ -9732,109 +10600,18 @@ exports.chinaAddres = {
             'parent': '433100'
         },
         {
+            'name': '广东省',
+            'value': '440000'
+        },
+        {
             'name': '广州市',
             'value': '440100',
             'parent': '440000'
         },
         {
-            'name': '韶关市',
-            'value': '440200',
-            'parent': '440000'
-        },
-        {
-            'name': '深圳市',
-            'value': '440300',
-            'parent': '440000'
-        },
-        {
-            'name': '珠海市',
-            'value': '440400',
-            'parent': '440000'
-        },
-        {
-            'name': '汕头市',
-            'value': '440500',
-            'parent': '440000'
-        },
-        {
-            'name': '佛山市',
-            'value': '440600',
-            'parent': '440000'
-        },
-        {
-            'name': '江门市',
-            'value': '440700',
-            'parent': '440000'
-        },
-        {
-            'name': '湛江市',
-            'value': '440800',
-            'parent': '440000'
-        },
-        {
-            'name': '茂名市',
-            'value': '440900',
-            'parent': '440000'
-        },
-        {
-            'name': '肇庆市',
-            'value': '441200',
-            'parent': '440000'
-        },
-        {
-            'name': '惠州市',
-            'value': '441300',
-            'parent': '440000'
-        },
-        {
-            'name': '梅州市',
-            'value': '441400',
-            'parent': '440000'
-        },
-        {
-            'name': '汕尾市',
-            'value': '441500',
-            'parent': '440000'
-        },
-        {
-            'name': '河源市',
-            'value': '441600',
-            'parent': '440000'
-        },
-        {
-            'name': '阳江市',
-            'value': '441700',
-            'parent': '440000'
-        },
-        {
-            'name': '清远市',
-            'value': '441800',
-            'parent': '440000'
-        },
-        {
-            'name': '东莞市',
-            'value': '441900',
-            'parent': '440000'
-        },
-        {
-            'name': '中山市',
-            'value': '442000',
-            'parent': '440000'
-        },
-        {
-            'name': '潮州市',
-            'value': '445100',
-            'parent': '440000'
-        },
-        {
-            'name': '揭阳市',
-            'value': '445200',
-            'parent': '440000'
-        },
-        {
-            'name': '云浮市',
-            'value': '445300',
-            'parent': '440000'
+            'name': '市辖区',
+            'value': '440101',
+            'parent': '440100'
         },
         {
             'name': '荔湾区',
@@ -9892,6 +10669,16 @@ exports.chinaAddres = {
             'parent': '440100'
         },
         {
+            'name': '韶关市',
+            'value': '440200',
+            'parent': '440100'
+        },
+        {
+            'name': '市辖区',
+            'value': '440201',
+            'parent': '440200'
+        },
+        {
             'name': '武江区',
             'value': '440203',
             'parent': '440200'
@@ -9942,6 +10729,16 @@ exports.chinaAddres = {
             'parent': '440200'
         },
         {
+            'name': '深圳市',
+            'value': '440300',
+            'parent': '440200'
+        },
+        {
+            'name': '市辖区',
+            'value': '440301',
+            'parent': '440300'
+        },
+        {
             'name': '罗湖区',
             'value': '440303',
             'parent': '440300'
@@ -9972,6 +10769,16 @@ exports.chinaAddres = {
             'parent': '440300'
         },
         {
+            'name': '珠海市',
+            'value': '440400',
+            'parent': '440300'
+        },
+        {
+            'name': '市辖区',
+            'value': '440401',
+            'parent': '440400'
+        },
+        {
             'name': '香洲区',
             'value': '440402',
             'parent': '440400'
@@ -9985,6 +10792,16 @@ exports.chinaAddres = {
             'name': '金湾区',
             'value': '440404',
             'parent': '440400'
+        },
+        {
+            'name': '汕头市',
+            'value': '440500',
+            'parent': '440400'
+        },
+        {
+            'name': '市辖区',
+            'value': '440501',
+            'parent': '440500'
         },
         {
             'name': '龙湖区',
@@ -10022,6 +10839,16 @@ exports.chinaAddres = {
             'parent': '440500'
         },
         {
+            'name': '佛山市',
+            'value': '440600',
+            'parent': '440500'
+        },
+        {
+            'name': '市辖区',
+            'value': '440601',
+            'parent': '440600'
+        },
+        {
             'name': '禅城区',
             'value': '440604',
             'parent': '440600'
@@ -10045,6 +10872,16 @@ exports.chinaAddres = {
             'name': '高明区',
             'value': '440608',
             'parent': '440600'
+        },
+        {
+            'name': '江门市',
+            'value': '440700',
+            'parent': '440600'
+        },
+        {
+            'name': '市辖区',
+            'value': '440701',
+            'parent': '440700'
         },
         {
             'name': '蓬江区',
@@ -10080,6 +10917,16 @@ exports.chinaAddres = {
             'name': '恩平市',
             'value': '440785',
             'parent': '440700'
+        },
+        {
+            'name': '湛江市',
+            'value': '440800',
+            'parent': '440700'
+        },
+        {
+            'name': '市辖区',
+            'value': '440801',
+            'parent': '440800'
         },
         {
             'name': '赤坎区',
@@ -10127,6 +10974,16 @@ exports.chinaAddres = {
             'parent': '440800'
         },
         {
+            'name': '茂名市',
+            'value': '440900',
+            'parent': '440800'
+        },
+        {
+            'name': '市辖区',
+            'value': '440901',
+            'parent': '440900'
+        },
+        {
             'name': '茂南区',
             'value': '440902',
             'parent': '440900'
@@ -10150,6 +11007,16 @@ exports.chinaAddres = {
             'name': '信宜市',
             'value': '440983',
             'parent': '440900'
+        },
+        {
+            'name': '肇庆市',
+            'value': '441200',
+            'parent': '440900'
+        },
+        {
+            'name': '市辖区',
+            'value': '441201',
+            'parent': '441200'
         },
         {
             'name': '端州区',
@@ -10192,6 +11059,16 @@ exports.chinaAddres = {
             'parent': '441200'
         },
         {
+            'name': '惠州市',
+            'value': '441300',
+            'parent': '441200'
+        },
+        {
+            'name': '市辖区',
+            'value': '441301',
+            'parent': '441300'
+        },
+        {
             'name': '惠城区',
             'value': '441302',
             'parent': '441300'
@@ -10215,6 +11092,16 @@ exports.chinaAddres = {
             'name': '龙门县',
             'value': '441324',
             'parent': '441300'
+        },
+        {
+            'name': '梅州市',
+            'value': '441400',
+            'parent': '441300'
+        },
+        {
+            'name': '市辖区',
+            'value': '441401',
+            'parent': '441400'
         },
         {
             'name': '梅江区',
@@ -10257,6 +11144,16 @@ exports.chinaAddres = {
             'parent': '441400'
         },
         {
+            'name': '汕尾市',
+            'value': '441500',
+            'parent': '441400'
+        },
+        {
+            'name': '市辖区',
+            'value': '441501',
+            'parent': '441500'
+        },
+        {
             'name': '城区',
             'value': '441502',
             'parent': '441500'
@@ -10275,6 +11172,16 @@ exports.chinaAddres = {
             'name': '陆丰市',
             'value': '441581',
             'parent': '441500'
+        },
+        {
+            'name': '河源市',
+            'value': '441600',
+            'parent': '441500'
+        },
+        {
+            'name': '市辖区',
+            'value': '441601',
+            'parent': '441600'
         },
         {
             'name': '源城区',
@@ -10307,6 +11214,16 @@ exports.chinaAddres = {
             'parent': '441600'
         },
         {
+            'name': '阳江市',
+            'value': '441700',
+            'parent': '441600'
+        },
+        {
+            'name': '市辖区',
+            'value': '441701',
+            'parent': '441700'
+        },
+        {
             'name': '江城区',
             'value': '441702',
             'parent': '441700'
@@ -10325,6 +11242,16 @@ exports.chinaAddres = {
             'name': '阳春市',
             'value': '441781',
             'parent': '441700'
+        },
+        {
+            'name': '清远市',
+            'value': '441800',
+            'parent': '441700'
+        },
+        {
+            'name': '市辖区',
+            'value': '441801',
+            'parent': '441800'
         },
         {
             'name': '清城区',
@@ -10367,6 +11294,26 @@ exports.chinaAddres = {
             'parent': '441800'
         },
         {
+            'name': '东莞市',
+            'value': '441900',
+            'parent': '441800'
+        },
+        {
+            'name': '中山市',
+            'value': '442000',
+            'parent': '441900'
+        },
+        {
+            'name': '潮州市',
+            'value': '445100',
+            'parent': '442000'
+        },
+        {
+            'name': '市辖区',
+            'value': '445101',
+            'parent': '445100'
+        },
+        {
             'name': '湘桥区',
             'value': '445102',
             'parent': '445100'
@@ -10380,6 +11327,16 @@ exports.chinaAddres = {
             'name': '饶平县',
             'value': '445122',
             'parent': '445100'
+        },
+        {
+            'name': '揭阳市',
+            'value': '445200',
+            'parent': '445100'
+        },
+        {
+            'name': '市辖区',
+            'value': '445201',
+            'parent': '445200'
         },
         {
             'name': '榕城区',
@@ -10407,6 +11364,16 @@ exports.chinaAddres = {
             'parent': '445200'
         },
         {
+            'name': '云浮市',
+            'value': '445300',
+            'parent': '445200'
+        },
+        {
+            'name': '市辖区',
+            'value': '445301',
+            'parent': '445300'
+        },
+        {
             'name': '云城区',
             'value': '445302',
             'parent': '445300'
@@ -10432,74 +11399,18 @@ exports.chinaAddres = {
             'parent': '445300'
         },
         {
+            'name': '广西壮族自治区',
+            'value': '450000'
+        },
+        {
             'name': '南宁市',
             'value': '450100',
             'parent': '450000'
         },
         {
-            'name': '柳州市',
-            'value': '450200',
-            'parent': '450000'
-        },
-        {
-            'name': '桂林市',
-            'value': '450300',
-            'parent': '450000'
-        },
-        {
-            'name': '梧州市',
-            'value': '450400',
-            'parent': '450000'
-        },
-        {
-            'name': '北海市',
-            'value': '450500',
-            'parent': '450000'
-        },
-        {
-            'name': '防城港市',
-            'value': '450600',
-            'parent': '450000'
-        },
-        {
-            'name': '钦州市',
-            'value': '450700',
-            'parent': '450000'
-        },
-        {
-            'name': '贵港市',
-            'value': '450800',
-            'parent': '450000'
-        },
-        {
-            'name': '玉林市',
-            'value': '450900',
-            'parent': '450000'
-        },
-        {
-            'name': '百色市',
-            'value': '451000',
-            'parent': '450000'
-        },
-        {
-            'name': '贺州市',
-            'value': '451100',
-            'parent': '450000'
-        },
-        {
-            'name': '河池市',
-            'value': '451200',
-            'parent': '450000'
-        },
-        {
-            'name': '来宾市',
-            'value': '451300',
-            'parent': '450000'
-        },
-        {
-            'name': '崇左市',
-            'value': '451400',
-            'parent': '450000'
+            'name': '市辖区',
+            'value': '450101',
+            'parent': '450100'
         },
         {
             'name': '兴宁区',
@@ -10562,6 +11473,16 @@ exports.chinaAddres = {
             'parent': '450100'
         },
         {
+            'name': '柳州市',
+            'value': '450200',
+            'parent': '450100'
+        },
+        {
+            'name': '市辖区',
+            'value': '450201',
+            'parent': '450200'
+        },
+        {
             'name': '城中区',
             'value': '450202',
             'parent': '450200'
@@ -10582,8 +11503,8 @@ exports.chinaAddres = {
             'parent': '450200'
         },
         {
-            'name': '柳江县',
-            'value': '450221',
+            'name': '柳江区',
+            'value': '450206',
             'parent': '450200'
         },
         {
@@ -10610,6 +11531,16 @@ exports.chinaAddres = {
             'name': '三江侗族自治县',
             'value': '450226',
             'parent': '450200'
+        },
+        {
+            'name': '桂林市',
+            'value': '450300',
+            'parent': '450200'
+        },
+        {
+            'name': '市辖区',
+            'value': '450301',
+            'parent': '450300'
         },
         {
             'name': '秀峰区',
@@ -10697,6 +11628,16 @@ exports.chinaAddres = {
             'parent': '450300'
         },
         {
+            'name': '梧州市',
+            'value': '450400',
+            'parent': '450300'
+        },
+        {
+            'name': '市辖区',
+            'value': '450401',
+            'parent': '450400'
+        },
+        {
             'name': '万秀区',
             'value': '450403',
             'parent': '450400'
@@ -10732,6 +11673,16 @@ exports.chinaAddres = {
             'parent': '450400'
         },
         {
+            'name': '北海市',
+            'value': '450500',
+            'parent': '450400'
+        },
+        {
+            'name': '市辖区',
+            'value': '450501',
+            'parent': '450500'
+        },
+        {
             'name': '海城区',
             'value': '450502',
             'parent': '450500'
@@ -10750,6 +11701,16 @@ exports.chinaAddres = {
             'name': '合浦县',
             'value': '450521',
             'parent': '450500'
+        },
+        {
+            'name': '防城港市',
+            'value': '450600',
+            'parent': '450500'
+        },
+        {
+            'name': '市辖区',
+            'value': '450601',
+            'parent': '450600'
         },
         {
             'name': '港口区',
@@ -10772,6 +11733,16 @@ exports.chinaAddres = {
             'parent': '450600'
         },
         {
+            'name': '钦州市',
+            'value': '450700',
+            'parent': '450600'
+        },
+        {
+            'name': '市辖区',
+            'value': '450701',
+            'parent': '450700'
+        },
+        {
             'name': '钦南区',
             'value': '450702',
             'parent': '450700'
@@ -10790,6 +11761,16 @@ exports.chinaAddres = {
             'name': '浦北县',
             'value': '450722',
             'parent': '450700'
+        },
+        {
+            'name': '贵港市',
+            'value': '450800',
+            'parent': '450700'
+        },
+        {
+            'name': '市辖区',
+            'value': '450801',
+            'parent': '450800'
         },
         {
             'name': '港北区',
@@ -10815,6 +11796,16 @@ exports.chinaAddres = {
             'name': '桂平市',
             'value': '450881',
             'parent': '450800'
+        },
+        {
+            'name': '玉林市',
+            'value': '450900',
+            'parent': '450800'
+        },
+        {
+            'name': '市辖区',
+            'value': '450901',
+            'parent': '450900'
         },
         {
             'name': '玉州区',
@@ -10850,6 +11841,16 @@ exports.chinaAddres = {
             'name': '北流市',
             'value': '450981',
             'parent': '450900'
+        },
+        {
+            'name': '百色市',
+            'value': '451000',
+            'parent': '450900'
+        },
+        {
+            'name': '市辖区',
+            'value': '451001',
+            'parent': '451000'
         },
         {
             'name': '右江区',
@@ -10912,8 +11913,23 @@ exports.chinaAddres = {
             'parent': '451000'
         },
         {
+            'name': '贺州市',
+            'value': '451100',
+            'parent': '451000'
+        },
+        {
+            'name': '市辖区',
+            'value': '451101',
+            'parent': '451100'
+        },
+        {
             'name': '八步区',
             'value': '451102',
+            'parent': '451100'
+        },
+        {
+            'name': '平桂区',
+            'value': '451103',
             'parent': '451100'
         },
         {
@@ -10930,6 +11946,16 @@ exports.chinaAddres = {
             'name': '富川瑶族自治县',
             'value': '451123',
             'parent': '451100'
+        },
+        {
+            'name': '河池市',
+            'value': '451200',
+            'parent': '451100'
+        },
+        {
+            'name': '市辖区',
+            'value': '451201',
+            'parent': '451200'
         },
         {
             'name': '金城江区',
@@ -10987,6 +12013,16 @@ exports.chinaAddres = {
             'parent': '451200'
         },
         {
+            'name': '来宾市',
+            'value': '451300',
+            'parent': '451200'
+        },
+        {
+            'name': '市辖区',
+            'value': '451301',
+            'parent': '451300'
+        },
+        {
             'name': '兴宾区',
             'value': '451302',
             'parent': '451300'
@@ -11015,6 +12051,16 @@ exports.chinaAddres = {
             'name': '合山市',
             'value': '451381',
             'parent': '451300'
+        },
+        {
+            'name': '崇左市',
+            'value': '451400',
+            'parent': '451300'
+        },
+        {
+            'name': '市辖区',
+            'value': '451401',
+            'parent': '451400'
         },
         {
             'name': '江州区',
@@ -11052,99 +12098,18 @@ exports.chinaAddres = {
             'parent': '451400'
         },
         {
+            'name': '海南省',
+            'value': '460000'
+        },
+        {
             'name': '海口市',
             'value': '460100',
             'parent': '460000'
         },
         {
-            'name': '三亚市',
-            'value': '460200',
-            'parent': '460000'
-        },
-        {
-            'name': '三沙市',
-            'value': '460300',
-            'parent': '460000'
-        },
-        {
-            'name': '五指山市',
-            'value': '469001',
-            'parent': '460000'
-        },
-        {
-            'name': '琼海市',
-            'value': '469002',
-            'parent': '460000'
-        },
-        {
-            'name': '儋州市',
-            'value': '469003',
-            'parent': '460000'
-        },
-        {
-            'name': '文昌市',
-            'value': '469005',
-            'parent': '460000'
-        },
-        {
-            'name': '万宁市',
-            'value': '469006',
-            'parent': '460000'
-        },
-        {
-            'name': '东方市',
-            'value': '469007',
-            'parent': '460000'
-        },
-        {
-            'name': '定安县',
-            'value': '469021',
-            'parent': '460000'
-        },
-        {
-            'name': '屯昌县',
-            'value': '469022',
-            'parent': '460000'
-        },
-        {
-            'name': '澄迈县',
-            'value': '469023',
-            'parent': '460000'
-        },
-        {
-            'name': '临高县',
-            'value': '469024',
-            'parent': '460000'
-        },
-        {
-            'name': '白沙黎族自治县',
-            'value': '469025',
-            'parent': '460000'
-        },
-        {
-            'name': '昌江黎族自治县',
-            'value': '469026',
-            'parent': '460000'
-        },
-        {
-            'name': '乐东黎族自治县',
-            'value': '469027',
-            'parent': '460000'
-        },
-        {
-            'name': '陵水黎族自治县',
-            'value': '469028',
-            'parent': '460000'
-        },
-        {
-            'name': '保亭黎族苗族自治县',
-            'value': '469029',
-            'parent': '460000'
-        },
-        {
-            'name': '琼中黎族苗族自治县',
-            'value': '469030',
-            'parent': '460000'
+            'name': '市辖区',
+            'value': '460101',
+            'parent': '460100'
         },
         {
             'name': '秀英区',
@@ -11167,6 +12132,16 @@ exports.chinaAddres = {
             'parent': '460100'
         },
         {
+            'name': '三亚市',
+            'value': '460200',
+            'parent': '460100'
+        },
+        {
+            'name': '市辖区',
+            'value': '460201',
+            'parent': '460200'
+        },
+        {
             'name': '海棠区',
             'value': '460202',
             'parent': '460200'
@@ -11187,22 +12162,101 @@ exports.chinaAddres = {
             'parent': '460200'
         },
         {
-            'name': '西沙群岛',
-            'value': '460321',
+            'name': '三沙市',
+            'value': '460300',
+            'parent': '460200'
+        },
+        {
+            'name': '儋州市',
+            'value': '460400',
             'parent': '460300'
         },
         {
-            'name': '南沙群岛',
-            'value': '460322',
-            'parent': '460300'
+            'name': '省直辖县级行政区划',
+            'value': '469000',
+            'parent': '460400'
         },
         {
-            'name': '中沙群岛的岛礁及其海域',
-            'value': '460323',
-            'parent': '460300'
+            'name': '五指山市',
+            'value': '469001',
+            'parent': '469000'
         },
         {
-            'name': '重庆市市辖区',
+            'name': '琼海市',
+            'value': '469002',
+            'parent': '469000'
+        },
+        {
+            'name': '文昌市',
+            'value': '469005',
+            'parent': '469000'
+        },
+        {
+            'name': '万宁市',
+            'value': '469006',
+            'parent': '469000'
+        },
+        {
+            'name': '东方市',
+            'value': '469007',
+            'parent': '469000'
+        },
+        {
+            'name': '定安县',
+            'value': '469021',
+            'parent': '469000'
+        },
+        {
+            'name': '屯昌县',
+            'value': '469022',
+            'parent': '469000'
+        },
+        {
+            'name': '澄迈县',
+            'value': '469023',
+            'parent': '469000'
+        },
+        {
+            'name': '临高县',
+            'value': '469024',
+            'parent': '469000'
+        },
+        {
+            'name': '白沙黎族自治县',
+            'value': '469025',
+            'parent': '469000'
+        },
+        {
+            'name': '昌江黎族自治县',
+            'value': '469026',
+            'parent': '469000'
+        },
+        {
+            'name': '乐东黎族自治县',
+            'value': '469027',
+            'parent': '469000'
+        },
+        {
+            'name': '陵水黎族自治县',
+            'value': '469028',
+            'parent': '469000'
+        },
+        {
+            'name': '保亭黎族苗族自治县',
+            'value': '469029',
+            'parent': '469000'
+        },
+        {
+            'name': '琼中黎族苗族自治县',
+            'value': '469030',
+            'parent': '469000'
+        },
+        {
+            'name': '重庆市',
+            'value': '500000'
+        },
+        {
+            'name': '市辖区',
             'value': '500100',
             'parent': '500000'
         },
@@ -11322,79 +12376,88 @@ exports.chinaAddres = {
             'parent': '500100'
         },
         {
+            'name': '开州区',
+            'value': '500154',
+            'parent': '500100'
+        },
+        {
+            'name': '县',
+            'value': '500200',
+            'parent': '500100'
+        },
+        {
             'name': '梁平县',
             'value': '500228',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '城口县',
             'value': '500229',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '丰都县',
             'value': '500230',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '垫江县',
             'value': '500231',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '武隆县',
             'value': '500232',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '忠县',
             'value': '500233',
-            'parent': '500100'
-        },
-        {
-            'name': '开县',
-            'value': '500234',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '云阳县',
             'value': '500235',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '奉节县',
             'value': '500236',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '巫山县',
             'value': '500237',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '巫溪县',
             'value': '500238',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '石柱土家族自治县',
             'value': '500240',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '秀山土家族苗族自治县',
             'value': '500241',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '酉阳土家族苗族自治县',
             'value': '500242',
-            'parent': '500100'
+            'parent': '500200'
         },
         {
             'name': '彭水苗族土家族自治县',
             'value': '500243',
-            'parent': '500100'
+            'parent': '500200'
+        },
+        {
+            'name': '四川省',
+            'value': '510000'
         },
         {
             'name': '成都市',
@@ -11402,104 +12465,9 @@ exports.chinaAddres = {
             'parent': '510000'
         },
         {
-            'name': '自贡市',
-            'value': '510300',
-            'parent': '510000'
-        },
-        {
-            'name': '攀枝花市',
-            'value': '510400',
-            'parent': '510000'
-        },
-        {
-            'name': '泸州市',
-            'value': '510500',
-            'parent': '510000'
-        },
-        {
-            'name': '德阳市',
-            'value': '510600',
-            'parent': '510000'
-        },
-        {
-            'name': '绵阳市',
-            'value': '510700',
-            'parent': '510000'
-        },
-        {
-            'name': '广元市',
-            'value': '510800',
-            'parent': '510000'
-        },
-        {
-            'name': '遂宁市',
-            'value': '510900',
-            'parent': '510000'
-        },
-        {
-            'name': '内江市',
-            'value': '511000',
-            'parent': '510000'
-        },
-        {
-            'name': '乐山市',
-            'value': '511100',
-            'parent': '510000'
-        },
-        {
-            'name': '南充市',
-            'value': '511300',
-            'parent': '510000'
-        },
-        {
-            'name': '眉山市',
-            'value': '511400',
-            'parent': '510000'
-        },
-        {
-            'name': '宜宾市',
-            'value': '511500',
-            'parent': '510000'
-        },
-        {
-            'name': '广安市',
-            'value': '511600',
-            'parent': '510000'
-        },
-        {
-            'name': '达州市',
-            'value': '511700',
-            'parent': '510000'
-        },
-        {
-            'name': '雅安市',
-            'value': '511800',
-            'parent': '510000'
-        },
-        {
-            'name': '巴中市',
-            'value': '511900',
-            'parent': '510000'
-        },
-        {
-            'name': '资阳市',
-            'value': '512000',
-            'parent': '510000'
-        },
-        {
-            'name': '阿坝藏族羌族自治州',
-            'value': '513200',
-            'parent': '510000'
-        },
-        {
-            'name': '甘孜藏族自治州',
-            'value': '513300',
-            'parent': '510000'
-        },
-        {
-            'name': '凉山彝族自治州',
-            'value': '513400',
-            'parent': '510000'
+            'name': '市辖区',
+            'value': '510101',
+            'parent': '510100'
         },
         {
             'name': '锦江区',
@@ -11547,13 +12515,13 @@ exports.chinaAddres = {
             'parent': '510100'
         },
         {
-            'name': '金堂县',
-            'value': '510121',
+            'name': '双流区',
+            'value': '510116',
             'parent': '510100'
         },
         {
-            'name': '双流县',
-            'value': '510122',
+            'name': '金堂县',
+            'value': '510121',
             'parent': '510100'
         },
         {
@@ -11597,6 +12565,21 @@ exports.chinaAddres = {
             'parent': '510100'
         },
         {
+            'name': '简阳市',
+            'value': '510185',
+            'parent': '510100'
+        },
+        {
+            'name': '自贡市',
+            'value': '510300',
+            'parent': '510100'
+        },
+        {
+            'name': '市辖区',
+            'value': '510301',
+            'parent': '510300'
+        },
+        {
             'name': '自流井区',
             'value': '510302',
             'parent': '510300'
@@ -11627,6 +12610,16 @@ exports.chinaAddres = {
             'parent': '510300'
         },
         {
+            'name': '攀枝花市',
+            'value': '510400',
+            'parent': '510300'
+        },
+        {
+            'name': '市辖区',
+            'value': '510401',
+            'parent': '510400'
+        },
+        {
             'name': '东区',
             'value': '510402',
             'parent': '510400'
@@ -11650,6 +12643,16 @@ exports.chinaAddres = {
             'name': '盐边县',
             'value': '510422',
             'parent': '510400'
+        },
+        {
+            'name': '泸州市',
+            'value': '510500',
+            'parent': '510400'
+        },
+        {
+            'name': '市辖区',
+            'value': '510501',
+            'parent': '510500'
         },
         {
             'name': '江阳区',
@@ -11687,6 +12690,16 @@ exports.chinaAddres = {
             'parent': '510500'
         },
         {
+            'name': '德阳市',
+            'value': '510600',
+            'parent': '510500'
+        },
+        {
+            'name': '市辖区',
+            'value': '510601',
+            'parent': '510600'
+        },
+        {
             'name': '旌阳区',
             'value': '510603',
             'parent': '510600'
@@ -11717,6 +12730,16 @@ exports.chinaAddres = {
             'parent': '510600'
         },
         {
+            'name': '绵阳市',
+            'value': '510700',
+            'parent': '510600'
+        },
+        {
+            'name': '市辖区',
+            'value': '510701',
+            'parent': '510700'
+        },
+        {
             'name': '涪城区',
             'value': '510703',
             'parent': '510700'
@@ -11727,6 +12750,11 @@ exports.chinaAddres = {
             'parent': '510700'
         },
         {
+            'name': '安州区',
+            'value': '510705',
+            'parent': '510700'
+        },
+        {
             'name': '三台县',
             'value': '510722',
             'parent': '510700'
@@ -11734,11 +12762,6 @@ exports.chinaAddres = {
         {
             'name': '盐亭县',
             'value': '510723',
-            'parent': '510700'
-        },
-        {
-            'name': '安县',
-            'value': '510724',
             'parent': '510700'
         },
         {
@@ -11760,6 +12783,16 @@ exports.chinaAddres = {
             'name': '江油市',
             'value': '510781',
             'parent': '510700'
+        },
+        {
+            'name': '广元市',
+            'value': '510800',
+            'parent': '510700'
+        },
+        {
+            'name': '市辖区',
+            'value': '510801',
+            'parent': '510800'
         },
         {
             'name': '利州区',
@@ -11797,6 +12830,16 @@ exports.chinaAddres = {
             'parent': '510800'
         },
         {
+            'name': '遂宁市',
+            'value': '510900',
+            'parent': '510800'
+        },
+        {
+            'name': '市辖区',
+            'value': '510901',
+            'parent': '510900'
+        },
+        {
             'name': '船山区',
             'value': '510903',
             'parent': '510900'
@@ -11822,6 +12865,16 @@ exports.chinaAddres = {
             'parent': '510900'
         },
         {
+            'name': '内江市',
+            'value': '511000',
+            'parent': '510900'
+        },
+        {
+            'name': '市辖区',
+            'value': '511001',
+            'parent': '511000'
+        },
+        {
             'name': '市中区',
             'value': '511002',
             'parent': '511000'
@@ -11845,6 +12898,16 @@ exports.chinaAddres = {
             'name': '隆昌县',
             'value': '511028',
             'parent': '511000'
+        },
+        {
+            'name': '乐山市',
+            'value': '511100',
+            'parent': '511000'
+        },
+        {
+            'name': '市辖区',
+            'value': '511101',
+            'parent': '511100'
         },
         {
             'name': '市中区',
@@ -11902,6 +12965,16 @@ exports.chinaAddres = {
             'parent': '511100'
         },
         {
+            'name': '南充市',
+            'value': '511300',
+            'parent': '511100'
+        },
+        {
+            'name': '市辖区',
+            'value': '511301',
+            'parent': '511300'
+        },
+        {
             'name': '顺庆区',
             'value': '511302',
             'parent': '511300'
@@ -11947,6 +13020,16 @@ exports.chinaAddres = {
             'parent': '511300'
         },
         {
+            'name': '眉山市',
+            'value': '511400',
+            'parent': '511300'
+        },
+        {
+            'name': '市辖区',
+            'value': '511401',
+            'parent': '511400'
+        },
+        {
             'name': '东坡区',
             'value': '511402',
             'parent': '511400'
@@ -11975,6 +13058,16 @@ exports.chinaAddres = {
             'name': '青神县',
             'value': '511425',
             'parent': '511400'
+        },
+        {
+            'name': '宜宾市',
+            'value': '511500',
+            'parent': '511400'
+        },
+        {
+            'name': '市辖区',
+            'value': '511501',
+            'parent': '511500'
         },
         {
             'name': '翠屏区',
@@ -12027,6 +13120,16 @@ exports.chinaAddres = {
             'parent': '511500'
         },
         {
+            'name': '广安市',
+            'value': '511600',
+            'parent': '511500'
+        },
+        {
+            'name': '市辖区',
+            'value': '511601',
+            'parent': '511600'
+        },
+        {
             'name': '广安区',
             'value': '511602',
             'parent': '511600'
@@ -12055,6 +13158,16 @@ exports.chinaAddres = {
             'name': '华蓥市',
             'value': '511681',
             'parent': '511600'
+        },
+        {
+            'name': '达州市',
+            'value': '511700',
+            'parent': '511600'
+        },
+        {
+            'name': '市辖区',
+            'value': '511701',
+            'parent': '511700'
         },
         {
             'name': '通川区',
@@ -12090,6 +13203,16 @@ exports.chinaAddres = {
             'name': '万源市',
             'value': '511781',
             'parent': '511700'
+        },
+        {
+            'name': '雅安市',
+            'value': '511800',
+            'parent': '511700'
+        },
+        {
+            'name': '市辖区',
+            'value': '511801',
+            'parent': '511800'
         },
         {
             'name': '雨城区',
@@ -12132,6 +13255,16 @@ exports.chinaAddres = {
             'parent': '511800'
         },
         {
+            'name': '巴中市',
+            'value': '511900',
+            'parent': '511800'
+        },
+        {
+            'name': '市辖区',
+            'value': '511901',
+            'parent': '511900'
+        },
+        {
             'name': '巴州区',
             'value': '511902',
             'parent': '511900'
@@ -12157,6 +13290,16 @@ exports.chinaAddres = {
             'parent': '511900'
         },
         {
+            'name': '资阳市',
+            'value': '512000',
+            'parent': '511900'
+        },
+        {
+            'name': '市辖区',
+            'value': '512001',
+            'parent': '512000'
+        },
+        {
             'name': '雁江区',
             'value': '512002',
             'parent': '512000'
@@ -12172,9 +13315,14 @@ exports.chinaAddres = {
             'parent': '512000'
         },
         {
-            'name': '简阳市',
-            'value': '512081',
+            'name': '阿坝藏族羌族自治州',
+            'value': '513200',
             'parent': '512000'
+        },
+        {
+            'name': '马尔康市',
+            'value': '513201',
+            'parent': '513200'
         },
         {
             'name': '汶川县',
@@ -12217,11 +13365,6 @@ exports.chinaAddres = {
             'parent': '513200'
         },
         {
-            'name': '马尔康县',
-            'value': '513229',
-            'parent': '513200'
-        },
-        {
             'name': '壤塘县',
             'value': '513230',
             'parent': '513200'
@@ -12239,6 +13382,11 @@ exports.chinaAddres = {
         {
             'name': '红原县',
             'value': '513233',
+            'parent': '513200'
+        },
+        {
+            'name': '甘孜藏族自治州',
+            'value': '513300',
             'parent': '513200'
         },
         {
@@ -12332,6 +13480,11 @@ exports.chinaAddres = {
             'parent': '513300'
         },
         {
+            'name': '凉山彝族自治州',
+            'value': '513400',
+            'parent': '513300'
+        },
+        {
             'name': '西昌市',
             'value': '513401',
             'parent': '513400'
@@ -12417,49 +13570,18 @@ exports.chinaAddres = {
             'parent': '513400'
         },
         {
+            'name': '贵州省',
+            'value': '520000'
+        },
+        {
             'name': '贵阳市',
             'value': '520100',
             'parent': '520000'
         },
         {
-            'name': '六盘水市',
-            'value': '520200',
-            'parent': '520000'
-        },
-        {
-            'name': '遵义市',
-            'value': '520300',
-            'parent': '520000'
-        },
-        {
-            'name': '安顺市',
-            'value': '520400',
-            'parent': '520000'
-        },
-        {
-            'name': '毕节市',
-            'value': '520500',
-            'parent': '520000'
-        },
-        {
-            'name': '铜仁市',
-            'value': '520600',
-            'parent': '520000'
-        },
-        {
-            'name': '黔西南布依族苗族自治州',
-            'value': '522300',
-            'parent': '520000'
-        },
-        {
-            'name': '黔东南苗族侗族自治州',
-            'value': '522600',
-            'parent': '520000'
-        },
-        {
-            'name': '黔南布依族苗族自治州',
-            'value': '522700',
-            'parent': '520000'
+            'name': '市辖区',
+            'value': '520101',
+            'parent': '520100'
         },
         {
             'name': '南明区',
@@ -12512,6 +13634,11 @@ exports.chinaAddres = {
             'parent': '520100'
         },
         {
+            'name': '六盘水市',
+            'value': '520200',
+            'parent': '520100'
+        },
+        {
             'name': '钟山区',
             'value': '520201',
             'parent': '520200'
@@ -12532,6 +13659,16 @@ exports.chinaAddres = {
             'parent': '520200'
         },
         {
+            'name': '遵义市',
+            'value': '520300',
+            'parent': '520200'
+        },
+        {
+            'name': '市辖区',
+            'value': '520301',
+            'parent': '520300'
+        },
+        {
             'name': '红花岗区',
             'value': '520302',
             'parent': '520300'
@@ -12542,8 +13679,8 @@ exports.chinaAddres = {
             'parent': '520300'
         },
         {
-            'name': '遵义县',
-            'value': '520321',
+            'name': '播州区',
+            'value': '520304',
             'parent': '520300'
         },
         {
@@ -12602,6 +13739,16 @@ exports.chinaAddres = {
             'parent': '520300'
         },
         {
+            'name': '安顺市',
+            'value': '520400',
+            'parent': '520300'
+        },
+        {
+            'name': '市辖区',
+            'value': '520401',
+            'parent': '520400'
+        },
+        {
             'name': '西秀区',
             'value': '520402',
             'parent': '520400'
@@ -12630,6 +13777,16 @@ exports.chinaAddres = {
             'name': '紫云苗族布依族自治县',
             'value': '520425',
             'parent': '520400'
+        },
+        {
+            'name': '毕节市',
+            'value': '520500',
+            'parent': '520400'
+        },
+        {
+            'name': '市辖区',
+            'value': '520501',
+            'parent': '520500'
         },
         {
             'name': '七星关区',
@@ -12670,6 +13827,16 @@ exports.chinaAddres = {
             'name': '赫章县',
             'value': '520527',
             'parent': '520500'
+        },
+        {
+            'name': '铜仁市',
+            'value': '520600',
+            'parent': '520500'
+        },
+        {
+            'name': '市辖区',
+            'value': '520601',
+            'parent': '520600'
         },
         {
             'name': '碧江区',
@@ -12722,6 +13889,11 @@ exports.chinaAddres = {
             'parent': '520600'
         },
         {
+            'name': '黔西南布依族苗族自治州',
+            'value': '522300',
+            'parent': '520600'
+        },
+        {
             'name': '兴义市',
             'value': '522301',
             'parent': '522300'
@@ -12759,6 +13931,11 @@ exports.chinaAddres = {
         {
             'name': '安龙县',
             'value': '522328',
+            'parent': '522300'
+        },
+        {
+            'name': '黔东南苗族侗族自治州',
+            'value': '522600',
             'parent': '522300'
         },
         {
@@ -12842,6 +14019,11 @@ exports.chinaAddres = {
             'parent': '522600'
         },
         {
+            'name': '黔南布依族苗族自治州',
+            'value': '522700',
+            'parent': '522600'
+        },
+        {
             'name': '都匀市',
             'value': '522701',
             'parent': '522700'
@@ -12902,84 +14084,18 @@ exports.chinaAddres = {
             'parent': '522700'
         },
         {
+            'name': '云南省',
+            'value': '530000'
+        },
+        {
             'name': '昆明市',
             'value': '530100',
             'parent': '530000'
         },
         {
-            'name': '曲靖市',
-            'value': '530300',
-            'parent': '530000'
-        },
-        {
-            'name': '玉溪市',
-            'value': '530400',
-            'parent': '530000'
-        },
-        {
-            'name': '保山市',
-            'value': '530500',
-            'parent': '530000'
-        },
-        {
-            'name': '昭通市',
-            'value': '530600',
-            'parent': '530000'
-        },
-        {
-            'name': '丽江市',
-            'value': '530700',
-            'parent': '530000'
-        },
-        {
-            'name': '普洱市',
-            'value': '530800',
-            'parent': '530000'
-        },
-        {
-            'name': '临沧市',
-            'value': '530900',
-            'parent': '530000'
-        },
-        {
-            'name': '楚雄彝族自治州',
-            'value': '532300',
-            'parent': '530000'
-        },
-        {
-            'name': '红河哈尼族彝族自治州',
-            'value': '532500',
-            'parent': '530000'
-        },
-        {
-            'name': '文山壮族苗族自治州',
-            'value': '532600',
-            'parent': '530000'
-        },
-        {
-            'name': '西双版纳傣族自治州',
-            'value': '532800',
-            'parent': '530000'
-        },
-        {
-            'name': '大理白族自治州',
-            'value': '532900',
-            'parent': '530000'
-        },
-        {
-            'name': '德宏傣族景颇族自治州',
-            'value': '533100',
-            'parent': '530000'
-        },
-        {
-            'name': '怒江傈僳族自治州',
-            'value': '533300',
-            'parent': '530000'
-        },
-        {
-            'name': '迪庆藏族自治州',
-            'value': '533400',
-            'parent': '530000'
+            'name': '市辖区',
+            'value': '530101',
+            'parent': '530100'
         },
         {
             'name': '五华区',
@@ -13052,8 +14168,23 @@ exports.chinaAddres = {
             'parent': '530100'
         },
         {
+            'name': '曲靖市',
+            'value': '530300',
+            'parent': '530100'
+        },
+        {
+            'name': '市辖区',
+            'value': '530301',
+            'parent': '530300'
+        },
+        {
             'name': '麒麟区',
             'value': '530302',
+            'parent': '530300'
+        },
+        {
+            'name': '沾益区',
+            'value': '530303',
             'parent': '530300'
         },
         {
@@ -13087,14 +14218,19 @@ exports.chinaAddres = {
             'parent': '530300'
         },
         {
-            'name': '沾益县',
-            'value': '530328',
-            'parent': '530300'
-        },
-        {
             'name': '宣威市',
             'value': '530381',
             'parent': '530300'
+        },
+        {
+            'name': '玉溪市',
+            'value': '530400',
+            'parent': '530300'
+        },
+        {
+            'name': '市辖区',
+            'value': '530401',
+            'parent': '530400'
         },
         {
             'name': '红塔区',
@@ -13102,8 +14238,8 @@ exports.chinaAddres = {
             'parent': '530400'
         },
         {
-            'name': '江川县',
-            'value': '530421',
+            'name': '江川区',
+            'value': '530403',
             'parent': '530400'
         },
         {
@@ -13142,6 +14278,16 @@ exports.chinaAddres = {
             'parent': '530400'
         },
         {
+            'name': '保山市',
+            'value': '530500',
+            'parent': '530400'
+        },
+        {
+            'name': '市辖区',
+            'value': '530501',
+            'parent': '530500'
+        },
+        {
             'name': '隆阳区',
             'value': '530502',
             'parent': '530500'
@@ -13165,6 +14311,16 @@ exports.chinaAddres = {
             'name': '腾冲市',
             'value': '530581',
             'parent': '530500'
+        },
+        {
+            'name': '昭通市',
+            'value': '530600',
+            'parent': '530500'
+        },
+        {
+            'name': '市辖区',
+            'value': '530601',
+            'parent': '530600'
         },
         {
             'name': '昭阳区',
@@ -13222,6 +14378,16 @@ exports.chinaAddres = {
             'parent': '530600'
         },
         {
+            'name': '丽江市',
+            'value': '530700',
+            'parent': '530600'
+        },
+        {
+            'name': '市辖区',
+            'value': '530701',
+            'parent': '530700'
+        },
+        {
             'name': '古城区',
             'value': '530702',
             'parent': '530700'
@@ -13245,6 +14411,16 @@ exports.chinaAddres = {
             'name': '宁蒗彝族自治县',
             'value': '530724',
             'parent': '530700'
+        },
+        {
+            'name': '普洱市',
+            'value': '530800',
+            'parent': '530700'
+        },
+        {
+            'name': '市辖区',
+            'value': '530801',
+            'parent': '530800'
         },
         {
             'name': '思茅区',
@@ -13297,6 +14473,16 @@ exports.chinaAddres = {
             'parent': '530800'
         },
         {
+            'name': '临沧市',
+            'value': '530900',
+            'parent': '530800'
+        },
+        {
+            'name': '市辖区',
+            'value': '530901',
+            'parent': '530900'
+        },
+        {
             'name': '临翔区',
             'value': '530902',
             'parent': '530900'
@@ -13334,6 +14520,11 @@ exports.chinaAddres = {
         {
             'name': '沧源佤族自治县',
             'value': '530927',
+            'parent': '530900'
+        },
+        {
+            'name': '楚雄彝族自治州',
+            'value': '532300',
             'parent': '530900'
         },
         {
@@ -13384,6 +14575,11 @@ exports.chinaAddres = {
         {
             'name': '禄丰县',
             'value': '532331',
+            'parent': '532300'
+        },
+        {
+            'name': '红河哈尼族彝族自治州',
+            'value': '532500',
             'parent': '532300'
         },
         {
@@ -13452,6 +14648,11 @@ exports.chinaAddres = {
             'parent': '532500'
         },
         {
+            'name': '文山壮族苗族自治州',
+            'value': '532600',
+            'parent': '532500'
+        },
+        {
             'name': '文山市',
             'value': '532601',
             'parent': '532600'
@@ -13492,6 +14693,11 @@ exports.chinaAddres = {
             'parent': '532600'
         },
         {
+            'name': '西双版纳傣族自治州',
+            'value': '532800',
+            'parent': '532600'
+        },
+        {
             'name': '景洪市',
             'value': '532801',
             'parent': '532800'
@@ -13504,6 +14710,11 @@ exports.chinaAddres = {
         {
             'name': '勐腊县',
             'value': '532823',
+            'parent': '532800'
+        },
+        {
+            'name': '大理白族自治州',
+            'value': '532900',
             'parent': '532800'
         },
         {
@@ -13567,6 +14778,11 @@ exports.chinaAddres = {
             'parent': '532900'
         },
         {
+            'name': '德宏傣族景颇族自治州',
+            'value': '533100',
+            'parent': '532900'
+        },
+        {
             'name': '瑞丽市',
             'value': '533102',
             'parent': '533100'
@@ -13592,8 +14808,13 @@ exports.chinaAddres = {
             'parent': '533100'
         },
         {
-            'name': '泸水县',
-            'value': '533321',
+            'name': '怒江傈僳族自治州',
+            'value': '533300',
+            'parent': '533100'
+        },
+        {
+            'name': '泸水市',
+            'value': '533301',
             'parent': '533300'
         },
         {
@@ -13612,6 +14833,11 @@ exports.chinaAddres = {
             'parent': '533300'
         },
         {
+            'name': '迪庆藏族自治州',
+            'value': '533400',
+            'parent': '533300'
+        },
+        {
             'name': '香格里拉市',
             'value': '533401',
             'parent': '533400'
@@ -13627,43 +14853,27 @@ exports.chinaAddres = {
             'parent': '533400'
         },
         {
+            'name': '西藏自治区',
+            'value': '540000'
+        },
+        {
             'name': '拉萨市',
             'value': '540100',
             'parent': '540000'
         },
         {
-            'name': '日喀则市',
-            'value': '540200',
-            'parent': '540000'
-        },
-        {
-            'name': '昌都市',
-            'value': '540300',
-            'parent': '540000'
-        },
-        {
-            'name': '林芝市',
-            'value': '540400',
-            'parent': '540000'
-        },
-        {
-            'name': '山南地区',
-            'value': '542200',
-            'parent': '540000'
-        },
-        {
-            'name': '那曲地区',
-            'value': '542400',
-            'parent': '540000'
-        },
-        {
-            'name': '阿里地区',
-            'value': '542500',
-            'parent': '540000'
+            'name': '市辖区',
+            'value': '540101',
+            'parent': '540100'
         },
         {
             'name': '城关区',
             'value': '540102',
+            'parent': '540100'
+        },
+        {
+            'name': '堆龙德庆区',
+            'value': '540103',
             'parent': '540100'
         },
         {
@@ -13687,11 +14897,6 @@ exports.chinaAddres = {
             'parent': '540100'
         },
         {
-            'name': '堆龙德庆县',
-            'value': '540125',
-            'parent': '540100'
-        },
-        {
             'name': '达孜县',
             'value': '540126',
             'parent': '540100'
@@ -13699,6 +14904,11 @@ exports.chinaAddres = {
         {
             'name': '墨竹工卡县',
             'value': '540127',
+            'parent': '540100'
+        },
+        {
+            'name': '日喀则市',
+            'value': '540200',
             'parent': '540100'
         },
         {
@@ -13792,6 +15002,11 @@ exports.chinaAddres = {
             'parent': '540200'
         },
         {
+            'name': '昌都市',
+            'value': '540300',
+            'parent': '540200'
+        },
+        {
             'name': '卡若区',
             'value': '540302',
             'parent': '540300'
@@ -13847,6 +15062,11 @@ exports.chinaAddres = {
             'parent': '540300'
         },
         {
+            'name': '林芝市',
+            'value': '540400',
+            'parent': '540300'
+        },
+        {
             'name': '巴宜区',
             'value': '540402',
             'parent': '540400'
@@ -13882,64 +15102,79 @@ exports.chinaAddres = {
             'parent': '540400'
         },
         {
-            'name': '乃东县',
-            'value': '542221',
-            'parent': '542200'
+            'name': '山南市',
+            'value': '540500',
+            'parent': '540400'
+        },
+        {
+            'name': '市辖区',
+            'value': '540501',
+            'parent': '540500'
+        },
+        {
+            'name': '乃东区',
+            'value': '540502',
+            'parent': '540500'
         },
         {
             'name': '扎囊县',
-            'value': '542222',
-            'parent': '542200'
+            'value': '540521',
+            'parent': '540500'
         },
         {
             'name': '贡嘎县',
-            'value': '542223',
-            'parent': '542200'
+            'value': '540522',
+            'parent': '540500'
         },
         {
             'name': '桑日县',
-            'value': '542224',
-            'parent': '542200'
+            'value': '540523',
+            'parent': '540500'
         },
         {
             'name': '琼结县',
-            'value': '542225',
-            'parent': '542200'
+            'value': '540524',
+            'parent': '540500'
         },
         {
             'name': '曲松县',
-            'value': '542226',
-            'parent': '542200'
+            'value': '540525',
+            'parent': '540500'
         },
         {
             'name': '措美县',
-            'value': '542227',
-            'parent': '542200'
+            'value': '540526',
+            'parent': '540500'
         },
         {
             'name': '洛扎县',
-            'value': '542228',
-            'parent': '542200'
+            'value': '540527',
+            'parent': '540500'
         },
         {
             'name': '加查县',
-            'value': '542229',
-            'parent': '542200'
+            'value': '540528',
+            'parent': '540500'
         },
         {
             'name': '隆子县',
-            'value': '542231',
-            'parent': '542200'
+            'value': '540529',
+            'parent': '540500'
         },
         {
             'name': '错那县',
-            'value': '542232',
-            'parent': '542200'
+            'value': '540530',
+            'parent': '540500'
         },
         {
             'name': '浪卡子县',
-            'value': '542233',
-            'parent': '542200'
+            'value': '540531',
+            'parent': '540500'
+        },
+        {
+            'name': '那曲地区',
+            'value': '542400',
+            'parent': '540500'
         },
         {
             'name': '那曲县',
@@ -13997,6 +15232,11 @@ exports.chinaAddres = {
             'parent': '542400'
         },
         {
+            'name': '阿里地区',
+            'value': '542500',
+            'parent': '542400'
+        },
+        {
             'name': '普兰县',
             'value': '542521',
             'parent': '542500'
@@ -14032,54 +15272,18 @@ exports.chinaAddres = {
             'parent': '542500'
         },
         {
+            'name': '陕西省',
+            'value': '610000'
+        },
+        {
             'name': '西安市',
             'value': '610100',
             'parent': '610000'
         },
         {
-            'name': '铜川市',
-            'value': '610200',
-            'parent': '610000'
-        },
-        {
-            'name': '宝鸡市',
-            'value': '610300',
-            'parent': '610000'
-        },
-        {
-            'name': '咸阳市',
-            'value': '610400',
-            'parent': '610000'
-        },
-        {
-            'name': '渭南市',
-            'value': '610500',
-            'parent': '610000'
-        },
-        {
-            'name': '延安市',
-            'value': '610600',
-            'parent': '610000'
-        },
-        {
-            'name': '汉中市',
-            'value': '610700',
-            'parent': '610000'
-        },
-        {
-            'name': '榆林市',
-            'value': '610800',
-            'parent': '610000'
-        },
-        {
-            'name': '安康市',
-            'value': '610900',
-            'parent': '610000'
-        },
-        {
-            'name': '商洛市',
-            'value': '611000',
-            'parent': '610000'
+            'name': '市辖区',
+            'value': '610101',
+            'parent': '610100'
         },
         {
             'name': '新城区',
@@ -14147,6 +15351,16 @@ exports.chinaAddres = {
             'parent': '610100'
         },
         {
+            'name': '铜川市',
+            'value': '610200',
+            'parent': '610100'
+        },
+        {
+            'name': '市辖区',
+            'value': '610201',
+            'parent': '610200'
+        },
+        {
             'name': '王益区',
             'value': '610202',
             'parent': '610200'
@@ -14165,6 +15379,16 @@ exports.chinaAddres = {
             'name': '宜君县',
             'value': '610222',
             'parent': '610200'
+        },
+        {
+            'name': '宝鸡市',
+            'value': '610300',
+            'parent': '610200'
+        },
+        {
+            'name': '市辖区',
+            'value': '610301',
+            'parent': '610300'
         },
         {
             'name': '渭滨区',
@@ -14225,6 +15449,16 @@ exports.chinaAddres = {
             'name': '太白县',
             'value': '610331',
             'parent': '610300'
+        },
+        {
+            'name': '咸阳市',
+            'value': '610400',
+            'parent': '610300'
+        },
+        {
+            'name': '市辖区',
+            'value': '610401',
+            'parent': '610400'
         },
         {
             'name': '秦都区',
@@ -14297,13 +15531,23 @@ exports.chinaAddres = {
             'parent': '610400'
         },
         {
+            'name': '渭南市',
+            'value': '610500',
+            'parent': '610400'
+        },
+        {
+            'name': '市辖区',
+            'value': '610501',
+            'parent': '610500'
+        },
+        {
             'name': '临渭区',
             'value': '610502',
             'parent': '610500'
         },
         {
-            'name': '华县',
-            'value': '610521',
+            'name': '华州区',
+            'value': '610503',
             'parent': '610500'
         },
         {
@@ -14352,8 +15596,23 @@ exports.chinaAddres = {
             'parent': '610500'
         },
         {
+            'name': '延安市',
+            'value': '610600',
+            'parent': '610500'
+        },
+        {
+            'name': '市辖区',
+            'value': '610601',
+            'parent': '610600'
+        },
+        {
             'name': '宝塔区',
             'value': '610602',
+            'parent': '610600'
+        },
+        {
+            'name': '安塞区',
+            'value': '610603',
             'parent': '610600'
         },
         {
@@ -14369,11 +15628,6 @@ exports.chinaAddres = {
         {
             'name': '子长县',
             'value': '610623',
-            'parent': '610600'
-        },
-        {
-            'name': '安塞县',
-            'value': '610624',
             'parent': '610600'
         },
         {
@@ -14415,6 +15669,16 @@ exports.chinaAddres = {
             'name': '黄陵县',
             'value': '610632',
             'parent': '610600'
+        },
+        {
+            'name': '汉中市',
+            'value': '610700',
+            'parent': '610600'
+        },
+        {
+            'name': '市辖区',
+            'value': '610701',
+            'parent': '610700'
         },
         {
             'name': '汉台区',
@@ -14472,8 +15736,23 @@ exports.chinaAddres = {
             'parent': '610700'
         },
         {
+            'name': '榆林市',
+            'value': '610800',
+            'parent': '610700'
+        },
+        {
+            'name': '市辖区',
+            'value': '610801',
+            'parent': '610800'
+        },
+        {
             'name': '榆阳区',
             'value': '610802',
+            'parent': '610800'
+        },
+        {
+            'name': '横山区',
+            'value': '610803',
             'parent': '610800'
         },
         {
@@ -14484,11 +15763,6 @@ exports.chinaAddres = {
         {
             'name': '府谷县',
             'value': '610822',
-            'parent': '610800'
-        },
-        {
-            'name': '横山县',
-            'value': '610823',
             'parent': '610800'
         },
         {
@@ -14530,6 +15804,16 @@ exports.chinaAddres = {
             'name': '子洲县',
             'value': '610831',
             'parent': '610800'
+        },
+        {
+            'name': '安康市',
+            'value': '610900',
+            'parent': '610800'
+        },
+        {
+            'name': '市辖区',
+            'value': '610901',
+            'parent': '610900'
         },
         {
             'name': '汉滨区',
@@ -14582,6 +15866,16 @@ exports.chinaAddres = {
             'parent': '610900'
         },
         {
+            'name': '商洛市',
+            'value': '611000',
+            'parent': '610900'
+        },
+        {
+            'name': '市辖区',
+            'value': '611001',
+            'parent': '611000'
+        },
+        {
             'name': '商州区',
             'value': '611002',
             'parent': '611000'
@@ -14617,74 +15911,18 @@ exports.chinaAddres = {
             'parent': '611000'
         },
         {
+            'name': '甘肃省',
+            'value': '620000'
+        },
+        {
             'name': '兰州市',
             'value': '620100',
             'parent': '620000'
         },
         {
-            'name': '嘉峪关市',
-            'value': '620200',
-            'parent': '620000'
-        },
-        {
-            'name': '金昌市',
-            'value': '620300',
-            'parent': '620000'
-        },
-        {
-            'name': '白银市',
-            'value': '620400',
-            'parent': '620000'
-        },
-        {
-            'name': '天水市',
-            'value': '620500',
-            'parent': '620000'
-        },
-        {
-            'name': '武威市',
-            'value': '620600',
-            'parent': '620000'
-        },
-        {
-            'name': '张掖市',
-            'value': '620700',
-            'parent': '620000'
-        },
-        {
-            'name': '平凉市',
-            'value': '620800',
-            'parent': '620000'
-        },
-        {
-            'name': '酒泉市',
-            'value': '620900',
-            'parent': '620000'
-        },
-        {
-            'name': '庆阳市',
-            'value': '621000',
-            'parent': '620000'
-        },
-        {
-            'name': '定西市',
-            'value': '621100',
-            'parent': '620000'
-        },
-        {
-            'name': '陇南市',
-            'value': '621200',
-            'parent': '620000'
-        },
-        {
-            'name': '临夏回族自治州',
-            'value': '622900',
-            'parent': '620000'
-        },
-        {
-            'name': '甘南藏族自治州',
-            'value': '623000',
-            'parent': '620000'
+            'name': '市辖区',
+            'value': '620101',
+            'parent': '620100'
         },
         {
             'name': '城关区',
@@ -14727,6 +15965,26 @@ exports.chinaAddres = {
             'parent': '620100'
         },
         {
+            'name': '嘉峪关市',
+            'value': '620200',
+            'parent': '620100'
+        },
+        {
+            'name': '市辖区',
+            'value': '620201',
+            'parent': '620200'
+        },
+        {
+            'name': '金昌市',
+            'value': '620300',
+            'parent': '620200'
+        },
+        {
+            'name': '市辖区',
+            'value': '620301',
+            'parent': '620300'
+        },
+        {
             'name': '金川区',
             'value': '620302',
             'parent': '620300'
@@ -14735,6 +15993,16 @@ exports.chinaAddres = {
             'name': '永昌县',
             'value': '620321',
             'parent': '620300'
+        },
+        {
+            'name': '白银市',
+            'value': '620400',
+            'parent': '620300'
+        },
+        {
+            'name': '市辖区',
+            'value': '620401',
+            'parent': '620400'
         },
         {
             'name': '白银区',
@@ -14760,6 +16028,16 @@ exports.chinaAddres = {
             'name': '景泰县',
             'value': '620423',
             'parent': '620400'
+        },
+        {
+            'name': '天水市',
+            'value': '620500',
+            'parent': '620400'
+        },
+        {
+            'name': '市辖区',
+            'value': '620501',
+            'parent': '620500'
         },
         {
             'name': '秦州区',
@@ -14797,6 +16075,16 @@ exports.chinaAddres = {
             'parent': '620500'
         },
         {
+            'name': '武威市',
+            'value': '620600',
+            'parent': '620500'
+        },
+        {
+            'name': '市辖区',
+            'value': '620601',
+            'parent': '620600'
+        },
+        {
             'name': '凉州区',
             'value': '620602',
             'parent': '620600'
@@ -14815,6 +16103,16 @@ exports.chinaAddres = {
             'name': '天祝藏族自治县',
             'value': '620623',
             'parent': '620600'
+        },
+        {
+            'name': '张掖市',
+            'value': '620700',
+            'parent': '620600'
+        },
+        {
+            'name': '市辖区',
+            'value': '620701',
+            'parent': '620700'
         },
         {
             'name': '甘州区',
@@ -14845,6 +16143,16 @@ exports.chinaAddres = {
             'name': '山丹县',
             'value': '620725',
             'parent': '620700'
+        },
+        {
+            'name': '平凉市',
+            'value': '620800',
+            'parent': '620700'
+        },
+        {
+            'name': '市辖区',
+            'value': '620801',
+            'parent': '620800'
         },
         {
             'name': '崆峒区',
@@ -14882,6 +16190,16 @@ exports.chinaAddres = {
             'parent': '620800'
         },
         {
+            'name': '酒泉市',
+            'value': '620900',
+            'parent': '620800'
+        },
+        {
+            'name': '市辖区',
+            'value': '620901',
+            'parent': '620900'
+        },
+        {
             'name': '肃州区',
             'value': '620902',
             'parent': '620900'
@@ -14915,6 +16233,16 @@ exports.chinaAddres = {
             'name': '敦煌市',
             'value': '620982',
             'parent': '620900'
+        },
+        {
+            'name': '庆阳市',
+            'value': '621000',
+            'parent': '620900'
+        },
+        {
+            'name': '市辖区',
+            'value': '621001',
+            'parent': '621000'
         },
         {
             'name': '西峰区',
@@ -14957,6 +16285,16 @@ exports.chinaAddres = {
             'parent': '621000'
         },
         {
+            'name': '定西市',
+            'value': '621100',
+            'parent': '621000'
+        },
+        {
+            'name': '市辖区',
+            'value': '621101',
+            'parent': '621100'
+        },
+        {
             'name': '安定区',
             'value': '621102',
             'parent': '621100'
@@ -14990,6 +16328,16 @@ exports.chinaAddres = {
             'name': '岷县',
             'value': '621126',
             'parent': '621100'
+        },
+        {
+            'name': '陇南市',
+            'value': '621200',
+            'parent': '621100'
+        },
+        {
+            'name': '市辖区',
+            'value': '621201',
+            'parent': '621200'
         },
         {
             'name': '武都区',
@@ -15037,6 +16385,11 @@ exports.chinaAddres = {
             'parent': '621200'
         },
         {
+            'name': '临夏回族自治州',
+            'value': '622900',
+            'parent': '621200'
+        },
+        {
             'name': '临夏市',
             'value': '622901',
             'parent': '622900'
@@ -15074,6 +16427,11 @@ exports.chinaAddres = {
         {
             'name': '积石山保安族东乡族撒拉族自治县',
             'value': '622927',
+            'parent': '622900'
+        },
+        {
+            'name': '甘南藏族自治州',
+            'value': '623000',
             'parent': '622900'
         },
         {
@@ -15117,44 +16475,18 @@ exports.chinaAddres = {
             'parent': '623000'
         },
         {
+            'name': '青海省',
+            'value': '630000'
+        },
+        {
             'name': '西宁市',
             'value': '630100',
             'parent': '630000'
         },
         {
-            'name': '海东市',
-            'value': '630200',
-            'parent': '630000'
-        },
-        {
-            'name': '海北藏族自治州',
-            'value': '632200',
-            'parent': '630000'
-        },
-        {
-            'name': '黄南藏族自治州',
-            'value': '632300',
-            'parent': '630000'
-        },
-        {
-            'name': '海南藏族自治州',
-            'value': '632500',
-            'parent': '630000'
-        },
-        {
-            'name': '果洛藏族自治州',
-            'value': '632600',
-            'parent': '630000'
-        },
-        {
-            'name': '玉树藏族自治州',
-            'value': '632700',
-            'parent': '630000'
-        },
-        {
-            'name': '海西蒙古族藏族自治州',
-            'value': '632800',
-            'parent': '630000'
+            'name': '市辖区',
+            'value': '630101',
+            'parent': '630100'
         },
         {
             'name': '城东区',
@@ -15192,6 +16524,11 @@ exports.chinaAddres = {
             'parent': '630100'
         },
         {
+            'name': '海东市',
+            'value': '630200',
+            'parent': '630100'
+        },
+        {
             'name': '乐都区',
             'value': '630202',
             'parent': '630200'
@@ -15222,6 +16559,11 @@ exports.chinaAddres = {
             'parent': '630200'
         },
         {
+            'name': '海北藏族自治州',
+            'value': '632200',
+            'parent': '630200'
+        },
+        {
             'name': '门源回族自治县',
             'value': '632221',
             'parent': '632200'
@@ -15242,6 +16584,11 @@ exports.chinaAddres = {
             'parent': '632200'
         },
         {
+            'name': '黄南藏族自治州',
+            'value': '632300',
+            'parent': '632200'
+        },
+        {
             'name': '同仁县',
             'value': '632321',
             'parent': '632300'
@@ -15259,6 +16606,11 @@ exports.chinaAddres = {
         {
             'name': '河南蒙古族自治县',
             'value': '632324',
+            'parent': '632300'
+        },
+        {
+            'name': '海南藏族自治州',
+            'value': '632500',
             'parent': '632300'
         },
         {
@@ -15284,6 +16636,11 @@ exports.chinaAddres = {
         {
             'name': '贵南县',
             'value': '632525',
+            'parent': '632500'
+        },
+        {
+            'name': '果洛藏族自治州',
+            'value': '632600',
             'parent': '632500'
         },
         {
@@ -15317,6 +16674,11 @@ exports.chinaAddres = {
             'parent': '632600'
         },
         {
+            'name': '玉树藏族自治州',
+            'value': '632700',
+            'parent': '632600'
+        },
+        {
             'name': '玉树市',
             'value': '632701',
             'parent': '632700'
@@ -15347,6 +16709,11 @@ exports.chinaAddres = {
             'parent': '632700'
         },
         {
+            'name': '海西蒙古族藏族自治州',
+            'value': '632800',
+            'parent': '632700'
+        },
+        {
             'name': '格尔木市',
             'value': '632801',
             'parent': '632800'
@@ -15372,29 +16739,18 @@ exports.chinaAddres = {
             'parent': '632800'
         },
         {
+            'name': '宁夏回族自治区',
+            'value': '640000'
+        },
+        {
             'name': '银川市',
             'value': '640100',
             'parent': '640000'
         },
         {
-            'name': '石嘴山市',
-            'value': '640200',
-            'parent': '640000'
-        },
-        {
-            'name': '吴忠市',
-            'value': '640300',
-            'parent': '640000'
-        },
-        {
-            'name': '固原市',
-            'value': '640400',
-            'parent': '640000'
-        },
-        {
-            'name': '中卫市',
-            'value': '640500',
-            'parent': '640000'
+            'name': '市辖区',
+            'value': '640101',
+            'parent': '640100'
         },
         {
             'name': '兴庆区',
@@ -15427,6 +16783,16 @@ exports.chinaAddres = {
             'parent': '640100'
         },
         {
+            'name': '石嘴山市',
+            'value': '640200',
+            'parent': '640100'
+        },
+        {
+            'name': '市辖区',
+            'value': '640201',
+            'parent': '640200'
+        },
+        {
             'name': '大武口区',
             'value': '640202',
             'parent': '640200'
@@ -15440,6 +16806,16 @@ exports.chinaAddres = {
             'name': '平罗县',
             'value': '640221',
             'parent': '640200'
+        },
+        {
+            'name': '吴忠市',
+            'value': '640300',
+            'parent': '640200'
+        },
+        {
+            'name': '市辖区',
+            'value': '640301',
+            'parent': '640300'
         },
         {
             'name': '利通区',
@@ -15467,6 +16843,16 @@ exports.chinaAddres = {
             'parent': '640300'
         },
         {
+            'name': '固原市',
+            'value': '640400',
+            'parent': '640300'
+        },
+        {
+            'name': '市辖区',
+            'value': '640401',
+            'parent': '640400'
+        },
+        {
             'name': '原州区',
             'value': '640402',
             'parent': '640400'
@@ -15492,6 +16878,16 @@ exports.chinaAddres = {
             'parent': '640400'
         },
         {
+            'name': '中卫市',
+            'value': '640500',
+            'parent': '640400'
+        },
+        {
+            'name': '市辖区',
+            'value': '640501',
+            'parent': '640500'
+        },
+        {
             'name': '沙坡头区',
             'value': '640502',
             'parent': '640500'
@@ -15507,94 +16903,18 @@ exports.chinaAddres = {
             'parent': '640500'
         },
         {
+            'name': '新疆维吾尔自治区',
+            'value': '650000'
+        },
+        {
             'name': '乌鲁木齐市',
             'value': '650100',
             'parent': '650000'
         },
         {
-            'name': '克拉玛依市',
-            'value': '650200',
-            'parent': '650000'
-        },
-        {
-            'name': '吐鲁番市',
-            'value': '650400',
-            'parent': '650000'
-        },
-        {
-            'name': '哈密地区',
-            'value': '652200',
-            'parent': '650000'
-        },
-        {
-            'name': '昌吉回族自治州',
-            'value': '652300',
-            'parent': '650000'
-        },
-        {
-            'name': '博尔塔拉蒙古自治州',
-            'value': '652700',
-            'parent': '650000'
-        },
-        {
-            'name': '巴音郭楞蒙古自治州',
-            'value': '652800',
-            'parent': '650000'
-        },
-        {
-            'name': '阿克苏地区',
-            'value': '652900',
-            'parent': '650000'
-        },
-        {
-            'name': '克孜勒苏柯尔克孜自治州',
-            'value': '653000',
-            'parent': '650000'
-        },
-        {
-            'name': '喀什地区',
-            'value': '653100',
-            'parent': '650000'
-        },
-        {
-            'name': '和田地区',
-            'value': '653200',
-            'parent': '650000'
-        },
-        {
-            'name': '伊犁哈萨克自治州',
-            'value': '654000',
-            'parent': '650000'
-        },
-        {
-            'name': '塔城地区',
-            'value': '654200',
-            'parent': '650000'
-        },
-        {
-            'name': '阿勒泰地区',
-            'value': '654300',
-            'parent': '650000'
-        },
-        {
-            'name': '石河子市',
-            'value': '659001',
-            'parent': '650000'
-        },
-        {
-            'name': '阿拉尔市',
-            'value': '659002',
-            'parent': '650000'
-        },
-        {
-            'name': '图木舒克市',
-            'value': '659003',
-            'parent': '650000'
-        },
-        {
-            'name': '五家渠市',
-            'value': '659004',
-            'parent': '650000'
+            'name': '市辖区',
+            'value': '650101',
+            'parent': '650100'
         },
         {
             'name': '天山区',
@@ -15637,6 +16957,16 @@ exports.chinaAddres = {
             'parent': '650100'
         },
         {
+            'name': '克拉玛依市',
+            'value': '650200',
+            'parent': '650100'
+        },
+        {
+            'name': '市辖区',
+            'value': '650201',
+            'parent': '650200'
+        },
+        {
             'name': '独山子区',
             'value': '650202',
             'parent': '650200'
@@ -15657,6 +16987,11 @@ exports.chinaAddres = {
             'parent': '650200'
         },
         {
+            'name': '吐鲁番市',
+            'value': '650400',
+            'parent': '650200'
+        },
+        {
             'name': '高昌区',
             'value': '650402',
             'parent': '650400'
@@ -15673,18 +17008,28 @@ exports.chinaAddres = {
         },
         {
             'name': '哈密市',
-            'value': '652201',
-            'parent': '652200'
+            'value': '650500',
+            'parent': '650400'
+        },
+        {
+            'name': '伊州区',
+            'value': '650502',
+            'parent': '650500'
         },
         {
             'name': '巴里坤哈萨克自治县',
-            'value': '652222',
-            'parent': '652200'
+            'value': '650521',
+            'parent': '650500'
         },
         {
             'name': '伊吾县',
-            'value': '652223',
-            'parent': '652200'
+            'value': '650522',
+            'parent': '650500'
+        },
+        {
+            'name': '昌吉回族自治州',
+            'value': '652300',
+            'parent': '650500'
         },
         {
             'name': '昌吉市',
@@ -15722,6 +17067,11 @@ exports.chinaAddres = {
             'parent': '652300'
         },
         {
+            'name': '博尔塔拉蒙古自治州',
+            'value': '652700',
+            'parent': '652300'
+        },
+        {
             'name': '博乐市',
             'value': '652701',
             'parent': '652700'
@@ -15739,6 +17089,11 @@ exports.chinaAddres = {
         {
             'name': '温泉县',
             'value': '652723',
+            'parent': '652700'
+        },
+        {
+            'name': '巴音郭楞蒙古自治州',
+            'value': '652800',
             'parent': '652700'
         },
         {
@@ -15787,6 +17142,11 @@ exports.chinaAddres = {
             'parent': '652800'
         },
         {
+            'name': '阿克苏地区',
+            'value': '652900',
+            'parent': '652800'
+        },
+        {
             'name': '阿克苏市',
             'value': '652901',
             'parent': '652900'
@@ -15832,6 +17192,11 @@ exports.chinaAddres = {
             'parent': '652900'
         },
         {
+            'name': '克孜勒苏柯尔克孜自治州',
+            'value': '653000',
+            'parent': '652900'
+        },
+        {
             'name': '阿图什市',
             'value': '653001',
             'parent': '653000'
@@ -15849,6 +17214,11 @@ exports.chinaAddres = {
         {
             'name': '乌恰县',
             'value': '653024',
+            'parent': '653000'
+        },
+        {
+            'name': '喀什地区',
+            'value': '653100',
             'parent': '653000'
         },
         {
@@ -15912,6 +17282,11 @@ exports.chinaAddres = {
             'parent': '653100'
         },
         {
+            'name': '和田地区',
+            'value': '653200',
+            'parent': '653100'
+        },
+        {
             'name': '和田市',
             'value': '653201',
             'parent': '653200'
@@ -15949,6 +17324,11 @@ exports.chinaAddres = {
         {
             'name': '民丰县',
             'value': '653227',
+            'parent': '653200'
+        },
+        {
+            'name': '伊犁哈萨克自治州',
+            'value': '654000',
             'parent': '653200'
         },
         {
@@ -16007,6 +17387,11 @@ exports.chinaAddres = {
             'parent': '654000'
         },
         {
+            'name': '塔城地区',
+            'value': '654200',
+            'parent': '654000'
+        },
+        {
             'name': '塔城市',
             'value': '654201',
             'parent': '654200'
@@ -16039,6 +17424,11 @@ exports.chinaAddres = {
         {
             'name': '和布克赛尔蒙古自治县',
             'value': '654226',
+            'parent': '654200'
+        },
+        {
+            'name': '阿勒泰地区',
+            'value': '654300',
             'parent': '654200'
         },
         {
@@ -16077,329 +17467,66 @@ exports.chinaAddres = {
             'parent': '654300'
         },
         {
-            'name': '中西區',
-            'value': '810001',
-            'parent': '810000'
+            'name': '自治区直辖县级行政区划',
+            'value': '659000',
+            'parent': '654300'
         },
         {
-            'name': '灣仔區',
-            'value': '810002',
-            'parent': '810000'
-        },
-        {
-            'name': '東區',
-            'value': '810003',
-            'parent': '810000'
-        },
-        {
-            'name': '南區',
-            'value': '810004',
-            'parent': '810000'
-        },
-        {
-            'name': '油尖旺區',
-            'value': '810005',
-            'parent': '810000'
-        },
-        {
-            'name': '深水埗區',
-            'value': '810006',
-            'parent': '810000'
-        },
-        {
-            'name': '九龍城區',
-            'value': '810007',
-            'parent': '810000'
-        },
-        {
-            'name': '黃大仙區',
-            'value': '810008',
-            'parent': '810000'
-        },
-        {
-            'name': '觀塘區',
-            'value': '810009',
-            'parent': '810000'
-        },
-        {
-            'name': '荃灣區',
-            'value': '810010',
-            'parent': '810000'
-        },
-        {
-            'name': '屯門區',
-            'value': '810011',
-            'parent': '810000'
-        },
-        {
-            'name': '元朗區',
-            'value': '810012',
-            'parent': '810000'
-        },
-        {
-            'name': '北區',
-            'value': '810013',
-            'parent': '810000'
-        },
-        {
-            'name': '大埔區',
-            'value': '810014',
-            'parent': '810000'
-        },
-        {
-            'name': '西貢區',
-            'value': '810015',
-            'parent': '810000'
-        },
-        {
-            'name': '沙田區',
-            'value': '810016',
-            'parent': '810000'
-        },
-        {
-            'name': '葵青區',
-            'value': '810017',
-            'parent': '810000'
-        },
-        {
-            'name': '離島區',
-            'value': '810018',
-            'parent': '810000'
-        },
-        {
-            'name': '花地瑪堂區',
-            'value': '820001',
-            'parent': '820000'
-        },
-        {
-            'name': '花王堂區',
-            'value': '820002',
-            'parent': '820000'
-        },
-        {
-            'name': '望德堂區',
-            'value': '820003',
-            'parent': '820000'
-        },
-        {
-            'name': '大堂區',
-            'value': '820004',
-            'parent': '820000'
-        },
-        {
-            'name': '風順堂區',
-            'value': '820005',
-            'parent': '820000'
-        },
-        {
-            'name': '嘉模堂區',
-            'value': '820006',
-            'parent': '820000'
-        },
-        {
-            'name': '路氹填海區',
-            'value': '820007',
-            'parent': '820000'
-        },
-        {
-            'name': '聖方濟各堂區',
-            'value': '820008',
-            'parent': '820000'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '110200'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '120200'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '139000'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '139001'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '139002'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '310200'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '419000'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '419001'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '429000'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '429004'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '429005'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '429006'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '429021'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '441900'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '442000'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469000'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469001'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469002'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469003'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469005'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469006'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469007'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469021'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469022'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469023'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469024'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469025'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469026'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469027'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469028'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469029'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '469030'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '500200'
-        },
-        {
-            'name': '--',
-            'value': '--',
-            'parent': '620200'
-        },
-        {
-            'name': '--',
-            'value': '--',
+            'name': '石河子市',
+            'value': '659001',
             'parent': '659000'
         },
         {
-            'name': '--',
-            'value': '--',
-            'parent': '659001'
+            'name': '阿拉尔市',
+            'value': '659002',
+            'parent': '659000'
+        },
+        {
+            'name': '图木舒克市',
+            'value': '659003',
+            'parent': '659000'
+        },
+        {
+            'name': '五家渠市',
+            'value': '659004',
+            'parent': '659000'
+        },
+        {
+            'name': '铁门关市',
+            'value': '659006',
+            'parent': '659000'
+        },
+        {
+            'name': '台湾省',
+            'value': '710000'
         },
         {
             'name': '--',
             'value': '--',
-            'parent': '659002'
+            'parent': '710000'
+        },
+        {
+            'name': '香港特别行政区',
+            'value': '810000'
         },
         {
             'name': '--',
             'value': '--',
-            'parent': '659003'
+            'parent': '810000'
+        },
+        {
+            'name': '澳门特别行政区',
+            'value': '820000'
         },
         {
             'name': '--',
             'value': '--',
-            'parent': '659004'
+            'parent': '820000'
+        },
+        {
+            'name': '--',
+            'value': '--',
+            'parent': '--'
         }
     ]
 };
