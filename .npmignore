@@ -2,6 +2,7 @@
 gulp-tasks
 logs
 .editorconfig
+build_and_publish.sh
 
 # typings
 typings
