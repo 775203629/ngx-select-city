@@ -1,7 +1,7 @@
 {
   "name": "ngx-select-city",
   "version": "0.0.2",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "main": "ngx-select-city.js",
   "typings": "ngx-select-city.d.ts",
   "scripts": {
@@ -46,14 +46,14 @@
   "description": "selecte Chinese city",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seraphims/ngx-select-city.git"
+    "url": "git+https://github.com/DTeam-Top/ngx-select-city.git"
   },
   "keywords": [
     "select-city、省市级联"
   ],
   "author": "seraphim_wu",
   "bugs": {
-    "url": "https://github.com/Seraphims/ngx-select-city/issues"
+    "url": "https://github.com/DTeam-Top/ngx-select-city/issues"
   },
-  "homepage": "https://github.com/Seraphims/ngx-select-city#readme"
+  "homepage": "https://github.com/DTeam-Top/ngx-select-city"
 }
