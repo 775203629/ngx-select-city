@@ -3,8 +3,6 @@
 
 ## 安装
 ```sh
-npm install https://github.com/Seraphims/ngx-select-city --save
-// 或者
 npm install ngx-select-city --save
 ```
 
@@ -22,9 +20,9 @@ import { WuCitySelectModule } from 'ngx-select-city';
 })
 export class AppModule { }
 ```
-在index.html中加入样式
-```html
-<link href="../node_modules/ngx-select-city/ngx-select-city.scss" rel="stylesheet">
+在.angular-cli.json中的styles加入样式
+```js
+"styles": ["../node_modules/ngx-select-city/ngx-select-city.scss"]
 ```
 #### 2.页面使用
 ```html
